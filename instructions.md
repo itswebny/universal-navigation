@@ -1,8 +1,10 @@
-# FAQ
-    Content
+# Instructions for universal navigation
 
-# Link to Yammer
-    https://www.yammer.com/itsexternalcollaborations/#/threads/inGroup?type=in_group&feedId=4705356
+## FAQ
+Content
 
-# Contact Information:
-    Any questions or feedback?  Reach out to innovate@its.ny.gov
+## Yammer Group
+http://goo.gl/RRlnFV
+
+## Contact Information
+Any questions?  Reach out to: innovate@its.ny.gov
