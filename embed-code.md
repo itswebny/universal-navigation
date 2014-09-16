@@ -1,4 +1,4 @@
-#Embed code provided from Code and Theory
+## Option #1: Interactive Universal Navigation
 
 ```
 <div id="nygov-universal-navigation" data-iframe="true">
@@ -41,3 +41,5 @@
     </script>
 </div>
 ```
+
+## Option #2: Simple iFrame Universal Navigation
