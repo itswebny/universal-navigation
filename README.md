@@ -1,9 +1,11 @@
 # Instructions for universal navigation
 
 ### Interactive Option
+
 - Demo http://nys-its.github.io/universal-navigation/interactive-option-demo.html
-- 
+
 ### Static Option
+
 - Demo http://nys-its.github.io/universal-navigation/static-option-demo.html
 
 ## FAQ
