@@ -1,4 +1,4 @@
-# Instructions for universal navigation
+# Implementation Guidelines for Universal Navigation
 
 ### Interactive Option
 
