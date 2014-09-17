@@ -1,1 +1,10 @@
 ## Frequently Asked Questions
+
+Will the Policy be updated?
+> Yes. After the BETA feedback.
+
+Who can participate in the BETA and give feedback through the Yammer group?
+> Anyone whos is actively contributing or participating int he beta testing can contribute.
+
+What if an application cannot implement the Universal Navigation by 9/29?
+> Though all applications should attempt to replace the banner by 9/29, If that is not achievable, move forward through normal deployment schedules so that the universal navigation can be implemented as soon as possible.  All apps should have the new Universal Navigation by 10/15/2014
