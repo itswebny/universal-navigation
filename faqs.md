@@ -1,5 +1,8 @@
 ## Frequently Asked Questions
 
+Is this the final code and banner?
+> The embed code is not final.  The design is finalized unless a major issue arises that needs to be address.
+
 Will the Policy be updated?
 > Yes. After the BETA feedback.
 
