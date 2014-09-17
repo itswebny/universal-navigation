@@ -7,7 +7,6 @@
 #### Labor's Career Center Locator
 
  - [Interactive Version](http://nys-its.github.io/universal-navigation/real-world-examples/index.html)
-
  - [Static Version](http://nys-its.github.io/universal-navigation/real-world-examples/index-s.html)
  
 #### TasteNY
