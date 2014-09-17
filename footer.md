@@ -9,7 +9,7 @@
 
 ##### Universal Navigation - Footer only (Mobile)
 
-![Footer Screenshot - desktop size](uni-footer-phone.JPG "Footer Screenshot - desktop size")
+![Footer Screenshot - desktop size](uni-footer-mobile.JPG "Footer Screenshot - desktop size")
 
 
 ##### Universal Navigation in context of ny.gov (desktop view):
