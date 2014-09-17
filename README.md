@@ -2,6 +2,8 @@
 
 ## Implementation Guidelines
 
+- Policy (update in progress)
+
 ### Interactive Option
 
 - [Instructions and embed code](interactive-option.md)
