@@ -5,15 +5,22 @@
 - Policy (update in progress)
 - [Frequently Asked Questions](faqs.md)
 
-### Interactive Option
+## Banner
+
+#### Interactive Banner Option
 
 - [Instructions and embed code](interactive-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/interactive-option-demo.html)
 
-### Static Option
+#### Static Banner Option
 
 - [Instructions and embed code](static-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/static-option-demo.html)
+
+## Footer
+
+- The footer is being finalized 
+- [ ] Add link to screenshot
 
 ## Feedback
 
