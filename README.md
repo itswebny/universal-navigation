@@ -5,7 +5,7 @@
 - Policy (update in progress)
 - [Frequently Asked Questions](faqs.md)
 
-## Banner
+## Universal Banner (choose 1 option)
 
 #### Interactive Banner Option
 
@@ -17,7 +17,7 @@
 - [Instructions and embed code](static-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/static-option-demo.html)
 
-## Footer
+## Universal Footer (required)
 
 - The footer is being finalized 
 - [ ] Add link to screenshot
