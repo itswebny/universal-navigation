@@ -4,6 +4,4 @@ https://github.com/nys-its/universal-navigation
 
 Please check the README.md file (visible below files) for new information. Given the timeframe, we will be updating the FAQ and code in real time. 
 
-Links for questions and feedback are listed under "BETA Comment Period" here: https://github.com/nys-its/universal-navigation#beta-comment-period.
-
-If you don't have access to the repository, please send an email to kevin.luddy@its.ny.gov and luke.charde@its.ny.gov.
+We encourage you to post general questions on Yammer, and please check the main spreadsheet for questions from the ALPHA period. Feedback will be added to the sheet as needed. Links for questions and feedback are listed under "BETA Comment Period" here: https://github.com/nys-its/universal-navigation#beta-comment-period
