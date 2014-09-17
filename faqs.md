@@ -4,7 +4,7 @@ Is this the final code, banner, and footer?
 > The embed code is not final.  The design is finalized unless a major issue arises that needs to be address.
 
 When will the embed code be finalized?
-> The current plan is to have a two day BETA comment period with finalization happening ASAP so that teams have sufficient lead time to implement.
+> The current plan is to have a __two day BETA comment period__ with finalization happening ASAP so that teams have sufficient lead time to implement.
 
 Will the Policy be updated?
 > Yes. After the BETA feedback.
