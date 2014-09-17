@@ -20,7 +20,6 @@
 ## Universal Footer (required)
 
 - [Instructions](footer.md)
-- [ ] Add screenshot to instructiosn in interim.
 
 ## Feedback
 
