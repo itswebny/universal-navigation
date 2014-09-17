@@ -20,9 +20,7 @@
 ## Universal Footer (required)
 
 - [Instructions](footer.md)
-- Demo: The footer can be viewed on the above Banner demo pages.
-- The footer is being finalized 
-- [ ] Add link to screenshot in interim.
+- [ ] Add screenshot to instructiosn in interim.
 
 ## Feedback
 
