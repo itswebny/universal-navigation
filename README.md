@@ -10,12 +10,12 @@
 #### Interactive Banner Option
 
 - [Instructions and embed code](interactive-option.md)
-- [Demo](http://nys-its.github.io/universal-navigation/interactive-option-demo.html)
+- [Demo](http://nys-its.github.io/universal-navigation/demos/interactive-option-demo.html)
 
 #### Static Banner Option
 
 - [Instructions and embed code](static-option.md)
-- [Demo](http://nys-its.github.io/universal-navigation/static-option-demo.html)
+- [Demo](http://nys-its.github.io/universal-navigation/demos/static-option-demo.html)
 
 ## Universal Footer (required)
 
