@@ -6,12 +6,12 @@
  
 #### Labor's Career Center Locator
 
- - [Interactive Version](http://nys-its.github.io/universal-navigation/index.html)
+ - [Interactive Version](http://nys-its.github.io/universal-navigation/real-world-examples/index.html)
 
- - [Static Version](http://nys-its.github.io/universal-navigation/index-s.html)
+ - [Static Version](http://nys-its.github.io/universal-navigation/real-world-examples/index-s.html)
  
 #### TasteNY
 
- - [Interactive Version](http://nys-its.github.io/universal-navigation/tasteny.html)
+ - [Interactive Version](http://nys-its.github.io/universal-navigation/real-world-examples/tasteny.html)
  
  
