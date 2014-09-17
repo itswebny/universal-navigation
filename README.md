@@ -22,6 +22,11 @@
 - Join the Universal Navigation [Yammer Group](http://goo.gl/RRlnFV) to discuss and give feedback.
 - Subscribe to the group by email so that updates are delivered to you automatically.
 
+### BETA Comment Period
+- During the BETA comment period, feedback and questions can be contributed through
+  - Feedback Spreadsheet 
+  - Feedback Screenshots and notes
+
 ### Questions
 - Please post questions to the [Yammer Group](http://goo.gl/RRlnFV) for the mutual benefit of all
 - If necessary, questions can be emailed to innovate@its.ny.gov
