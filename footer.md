@@ -15,5 +15,3 @@
 ##### Universal Navigation in context of ny.gov (desktop view):
 
 ![Universal Navigation in context](uni-nav-screenshot-services.JPG "Universal Navigation in context")
-
-<img src="uni-nav-screenshot-services.JPG" style="border: 1px solid black;">
