@@ -4,12 +4,12 @@
 
 ### Interactive Option
 
-- [Instructions](interactive-option.md)
+- [Instructions and embed code](interactive-option.md)
 - Demo http://nys-its.github.io/universal-navigation/interactive-option-demo.html
 
 ### Static Option
 
-- [Instructions](static-option.md)
+- [Instructions and embed code](static-option.md)
 - Demo http://nys-its.github.io/universal-navigation/static-option-demo.html
 
 ## FAQ
