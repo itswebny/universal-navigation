@@ -1,14 +1,17 @@
-Examples on "real-world" sites. 
+## Examples on "real-world" sites. 
 
-Notes:
- - Sites were downloaded using Chrome's "Save as Full Page" functionality.
- - Embed code "drag and dropped" at top of app, with no other adjustments
+#### Notes:
+ - _Sites were downloaded using Chrome's "Save as Full Page" functionality_
+ - _Embed code "drag and dropped" at top of app, with no other adjustments_
  
- Labor's Career Center Locator
- [Interactive Version](index.html)
- [Static Version](index-s.html)
+#### Labor's Career Center Locator
+
+ - [Interactive Version](http://nys-its.github.io/universal-navigation/index.html)
+
+ - [Static Version](http://nys-its.github.io/universal-navigation/index-s.html)
  
- TasteNY
- [Interactive Version](tasteny.html)
+#### TasteNY
+
+ - [Interactive Version](http://nys-its.github.io/universal-navigation/tasteny.html)
  
  
