@@ -1,0 +1,1482 @@
+
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+
+	<head>
+
+
+		<meta charset="utf-8">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+		<link rel="stylesheet" media="screen" href="//labor.ny.gov/css/apps/v.0.4.10/css/ux-style.min.css">
+		<link rel="stylesheet" media="print" href="//labor.ny.gov/css/apps/v.0.4.10/css/ux-print.min.css"> 
+  
+<title>Page Not Found - New York State Department of Labor</title>
+
+
+
+
+		<meta name="Keywords" content="" />
+		<meta name="Keyphrases" content="" />
+		<meta name="Keysentences" content="" />
+		<meta name="Summary" content="" />
+		<meta name="revisionNumber" content="21" />
+		<meta name="lastUpdated" content="Aug 24 2011" />
+		
+		
+   
+
+
+		<link rel="stylesheet" media="screen" href="/css/apps/css/ux-internet-content-utility-v.0.4.10.css">
+		<!-- JS -->
+		<script src="//labor.ny.gov/css/apps/v.0.4.10/js/modernizr.min.js"></script>
+		<script src="https://www.google.com/jsapi"></script>
+
+	</head>
+
+	<!--[if IE 7 ]>    <body class="ie7 "> <![endif]-->
+	<!--[if IE 8 ]>    <body class="ie8 "> <![endif]-->
+	<!--[if IE 9 ]>    <body class="ie9 "> <![endif]-->
+	<!--[if (gt IE 9)|!(IE)]><!--> 
+	<body class="ux-website">
+	<!--<![endif]-->
+
+		<header class="group">
+ 
+	
+	
+<div id="ux-skip-nav">
+			<a tabindex="1" id="skip-to-content" href="#content-anchor" class="ux-no-block">Skip to Content</a>		
+			<a tabindex="2" id="skip-to-nav" href="#navigation-anchor" class="ux-no-block">Skip to Navigation</a>	
+</div>
+
+	
+			<div id="ux-notification-container">
+				<div class="ux-content-wrapper">
+					<div id="ux-action-required-notifications" class="ux-notice-outer">
+						<div class="arn-tray ux-notice-inner">
+						</div>
+					</div>
+					<div id="ux-generic-notifications">
+					</div>
+				</div>
+			</div>
+
+			<div id="gov-banner">
+				<div class="container_16 ux-content">
+					<div id="gov-links">
+						<a href="http://www.ny.gov/" id="gov-link1" class="gov-img">
+							<span class="ux-hide-508">New York State Home</span>
+						</a>
+						<a href="http://www.nysegov.com/citGuide.cfm?superCat=102&cat=449&content=main" id="gov-link2" class="gov-img">
+							<span class="ux-hide-508">Stage Agencies List</span>
+						</a>
+					</div>
+					<div>
+						<a href="#" id="gov-link3" class="gov-img">
+							<span class="ux-hide-508">Search all of New York State</span>
+						</a>
+						<form method="get" id="nys-search" action="http://search.its.ny.gov/" target="_blank" class="ux-hide-js ux-search-form" autocomplete="off">
+							<div>
+								<label for="nys-search-box" class="ux-hide-508">Search all of New York State</label>
+								<input type="text" id="nys-search-box" class="ux-search-input" placeholder="Search New York State" name="q" size="15" />
+								<input type="submit" value="Search NY.GOV" class="ux-search-button" id="nys-search-button" />
+							</div>
+							<input type="hidden" name="sort" value="date:D:L:d1" />
+							<input type="hidden" name="output" value="xml_no_dtd" />
+							<input type="hidden" name="ie" value="UTF-8" />
+							<input type="hidden" name="oe" value="UTF-8" />
+							<input type="hidden" name="client" value="default_frontend" />
+							<input type="hidden" name="proxystylesheet" value="default_frontend" />
+							<input type="hidden" name="site" value="default_collection" />
+						</form>
+					</div>
+				</div>
+			</div>
+			<div id="ux-site-header">
+				<div class="container_16 ux-content">
+					<a href="http://labor.ny.gov" id="ux-site-logo">
+						<h1>
+							<span class="ux-hide-508">New York State Department of Labor</span>
+						</h1>
+					</a>
+					<span id="ux-site-title">
+	
+	
+					</span>
+					<div id="ux-header-functions">
+						<div id="ux-universal-menu">
+							<nav>
+								<ul>
+									<li>
+										<a href="http://www.labor.ny.gov/home/a-z-index.shtm">A-Z Index</a>
+									</li>
+									<!--
+									<li>
+										<a href="#" class="ux-popover">My Account</a>
+										<div>
+											<ul>
+												<li><a href="#">Individual Account</a></li>
+												<li><a href="#">Business Account</a></li>											
+											</ul>
+										</div>
+									</li>--> 
+
+	
+		<li class="ux-hide-nojs">
+			<a href="#" title="google" class="gtranslate-link">Translate</a>
+		</li>
+		<li class="ux-mobile-only">
+			<a href="#">Search DOL</a>
+		</li>
+</a>
+</li>
+
+	
+						</ul>
+							</nav>
+						</div>						
+						<form name="_ipsubmit" id="ux-site-search" method="get" action="http://search.its.ny.gov/search" class="ux-search-form">
+							<div>
+								<label for="site-search-box" class="ux-hide-508">Search DOL</label>
+								<input type="text" id="site-search-box" class="ux-search-input" placeholder="Search Labor" name="q" size="15">
+								<input type="submit" value="Search NY.GOV" class="ux-search-button" id="site-search-button">
+							</div>
+							<input type="hidden" name="entqr" value="0">
+							<input type="hidden" name="ud" value="1">
+							<input type="hidden" name="sort" value="date:D:L:d1">
+							<input type="hidden" name="output" value="xml_no_dtd">
+							<input type="hidden" name="oe" value="UTF-8">
+							<input type="hidden" name="ie" value="UTF-8">
+							<input type="hidden" name="client" value="labor_frontend">
+							<input type="hidden" name="proxystylesheet" value="labor_frontend">
+							<input type="hidden" name="site" value="labor_collection">
+						</form>	
+
+						</div>
+					</div>											
+				</div>
+			</div>
+			<div id="ux-domain-menu">
+				<a name="navigation-anchor" id="navigation-anchor" tabindex="-1"></a>
+				<nav class="container_16 ux-content" id="app-nav">
+				<ul>
+					<li>
+						<a href="http://labor.ny.gov">Home</a>
+					</li>
+					<li>
+						<a href="http://labor.ny.gov/home/individuals.php">Individuals</a>
+						
+			
+			<div class="sub-nav outer-sub-nav">
+				<nav class="container_16 ux-content">
+					<ul>
+						<li>
+							<a href="#">Job Seekers</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Job Seekers</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workforcenypartners/career-center-events.shtm">Career Center Events</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workforcenypartners/career-center-events.shtm">Career Fairs and Recruitments</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/careerservices/CareerServicesIndex.shtm">Find a Job</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/career-center-locator/">New York State Career Centers</a>
+											</li>
+											<li>
+												<strong >Apprenticeship</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/general/registration.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/general/occupations.shtm">Active Trades</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/pressreleases/apprenticeshiparchive.shtm">Current Recruitments</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Career Development</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/careerservices/planyourcareer/planningyourcareerindex.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://careerzone.ny.gov/">CareerZone</a>
+											</li>
+											<li>
+												<a href="http://jobzone.ny.gov/">JobZone</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/lstrain.shtm">Occupational Licenses and Certifications</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/careerservices/findajob/res_fun.shtm">Resumes</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/careerservices/planyourcareer/training.shtm">Training</a>
+											</li>
+                                       							<li>
+												<a href="https://applications.labor.ny.gov/ETPL/">Training Provider List</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Labor Statistics</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/index.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/lscesmaj.shtm">Current Employment Statistics</a>
+											</li>
+											<li>
+												<a href="http://www.labor.ny.gov/stats/lsproj.shtm">Growing Occupations</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/pressreleases/pruistat.shtm">Monthly Jobs Press Release</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/lswage2.asp">Occupational Wages</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Unemployment</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Online Services</strong>
+											</li>
+											<li>
+												<a href="https://applications.labor.ny.gov/Individual/">Check Payment History</a>
+											</li>
+											<li>
+												<a href="https://applications.labor.ny.gov/Individual/">Claim Weekly Benefits</a>
+											</li>
+											<li>
+												<a href="https://applications.labor.ny.gov/Individual/">File a Claim</a>
+											</li>
+											<li>
+												<a href="https://applications.labor.ny.gov/Individual/">Print 1099</a>
+											</li>
+											<li>
+												<a href="https://applications.labor.ny.gov/Individual/">Register for Direct Deposit</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Important Links</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/claimantinfo/UIBenefitsCalculator.shtm">Benefits Calculator</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/claimantinfo/ExtendedBenefits.shtm">Extended Benefits</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/agencyinfo/report-fraud.shtm">Report Fraud</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/unemploymentassistance.shtm">Unemployment Assistance</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Important Documents</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/claimantinfo/Claimant%20Handbook%20-%20Languages.shtm">Claimant Handbook</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/ui/claimant-forms-and-publications.shtm">Forms and Publications</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/faq.shtm">Frequently Asked Questions</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Workers</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Wages/Breaks</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/employer/meals.shtm">Breaks</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/minwage.shtm">Minimum Wage</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/nursing-mothers.shtm">Nursing Mothers in the Workplace</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/faq.shtm#4">Overtime</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/employer/posters.shtm">Required Posters</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/lswage2.asp">Wage Rates</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Public Work</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/publicwork/PWContents.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://wpp.labor.state.ny.us/wpp/publicViewPWChanges.do?method=showIt">Article 8 - Construction</a>
+											</li>
+											<li>
+												<a href="http://wpp.labor.state.ny.us/wpp/publicViewPWChangesArt9.do?method=showIt">Article 9 - Building Services</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Safety and Health</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/DOSH_INDEX.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/DOSH_PESH.shtm">Public Employee Safety & Health</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/safe-patient-handling.shtm">Safe Patient Handling</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/workplaceviolence.shtm">Workplace Violence Prevention</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Equal Opportunity</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/equal-opportunity/index.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/equal-opportunity/how-to-file-a-discrimination-claim.shtm">File a Discrimination Complaint</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong>Work For Success</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/careerservices/work-for-success/">Work For Success Program Overview</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Youth</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/youth">Information Portal</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/minors.shtm">Child Labor Law</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/secure/child_index.shtm">Child Performer</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/wphmpg.shtm">Working Papers</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Veterans</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/vets/vetintropage.shtm">Veterans' Services</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Immigrants</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/immigrants/index.shtm">Division of Immigrant Policies and Affairs</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Legal Updates</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/legal/legal-updates.shtm">Legal Updates</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</div>
+	
+					</li>
+					<li>
+						<a href="http://labor.ny.gov/home/businesses.php">Businesses</a>
+						
+			
+			<div class="sub-nav outer-sub-nav">
+				<nav class="container_16 ux-content">
+					<ul>
+						<li>
+							<a href="#">Unemployment Insurance</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/ui/employer.shtm">Employer Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/employer-handbooks.shtm">Employer Handbooks</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/Authentication/index.shtm">Unemployment Insurance Online Services</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/registering-for-unemployment-insurance.shtm">Registering</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/sides-overview.shtm">Unemployment Insurance State Information Data Exchange System (SIDES)</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/interest-assessment-surcharge.shtm">Interest Assessment Surcharge</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/quarterly-reporting.shtm">Quarterly Reporting</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://www.labor.ny.gov/ui/employerinfo/ui-rate-information.shtm">UI Rate Information</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/ui/employer-forms-publications.shtm">Forms and Publications</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/shared-work-program.shtm">The Shared Work Program</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/agencyinfo/report-fraud.shtm">Report Fraud</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Recruitment Services</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Recruitment Services</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/lookforworkers/lookingforworkersIndex.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/job-fairs.shtm">Career Fairs and Recruitments</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/services/perm.shtm">Place a Job Order</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Manage Your Workforce</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/services/servicesindex.shtm">Consultation Services</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/immigrants/agriculture-labor-program/services-for-agriculture-employers.shtm">Services for Agricultural Employers</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/funding.shtm">Funding Opportunities</a>
+											</li>
+											<li>
+												<a href="https://applications.labor.ny.gov/ETPL/">Eligible Training Providers</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Hiring Incentives</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/services/fbp.shtm">Federal Bonding Program</a>
+											</li>
+											<li>
+												<a href="https://labor.ny.gov/careerservices/youth-tax-credit.shtm">New York Youth Works</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/ojt.shtm">On-the-Job Training</a>
+											</li>
+											<li>
+												<a href="http://www.labor.ny.gov/careerservices/work-for-success/">Work For Success Program</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/edsu/edsu%20wotc.shtm">Work Opportunity Tax Credit</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Apprenticeship</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/appsponsor.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/sponsor/index.asp">Active Sponsors List</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/atc.shtm">Apprenticeship and Training Council</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/activesponsorlist.shtm#dereg">Deregistered/Closed Programs</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/general/lawsandregs.shtm">Laws and Regulations</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/pending-approval.shtm">Programs Pending Approval</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Labor Statistics</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/stats/index.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/lseeo.shtm">Affirmative Action Data</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/lswage2.asp">Occupational Wages</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Labor Law</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/legal/index.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/adjudication-decisions.shtm">Adjudication Decisions</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/minors.shtm">Child Labor</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/secure/foilrequest.shtm">FOIL Requests</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/frequently-asked-questions.shtm">Legal Frequently Asked Questions</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/legal/counsel-opinion-letters.shtm">Legal Opinions</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/legal-updates.shtm">Legal Updates</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/publicwork/PWGeneralProvisions.shtm">Public Work - General Provisions</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workforcenypartners/warn/warnportal.shtm">WARN Notices</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Worker Protection</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Labor Standards</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/labor_standards.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/garment.asp">Apparel Industry</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/farm_labor.shtm">Farm Labor</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/immigrants/index.shtm">Immigrants and Non-English Speakers</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/wpcpu.shtm">Licenses, Permits, Certifications</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/employer/posters.shtm">Required Posters</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Safety & Health</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/DOSH_INDEX.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/DOSH_BOARDS.shtm">Boards and Councils</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/DOSH_CODE_RULES.shtm">Codes and Regulations</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/DOSH_PROGRAMS.shtm">Special Programs</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/workplaceviolence.shtm ">Workplace Violence Prevention</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Wages/Breaks</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/employer/meals.shtm">Breaks</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/workprot/minwage.shtm">Minimum Wage</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/faq.shtm#4">Overtime</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/lswage2.asp">Wage Rates</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Public Work</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/publicwork/PWContents.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://wpp.labor.state.ny.us/wpp/publicViewPWChanges.do?method=showIt">Article 8 - Construction</a>
+											</li>
+											<li>
+												<a href="http://wpp.labor.state.ny.us/wpp/publicViewPWChangesArt9.do?method=showIt">Article 9 - Building Services</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/publicwork/PWDebarmentInformation.shtm">Debarred List</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Online Services</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="https://wps.labor.state.ny.us/WPS_Curam/en/WPEmployer_ExternalhomePage.do">Asbestos Notifications</a>
+											</li>
+											<li>
+												<a href="https://applications.labor.ny.gov/eRegWeb/">Register for Unemployment Insurance (NYS-100)</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/Authentication/index.shtm">Unemployment Insurance Online Services</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/Authentication/index.shtm">File a Quarterly Report (NYS-45)</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Immigrants</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/immigrants/index.shtm">Division of Immigrant Policies and Affairs</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		
+					</li>
+					<li>
+						<a href="http://labor.ny.gov/home/research.php">Government & Research</a>
+						
+			
+			<div class="sub-nav outer-sub-nav">
+				<nav class="container_16 ux-content">
+					<ul>
+						<li>
+							<a href="#">Labor Statistics</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/stats/index.shtm">Labor Statistics Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/green/index.shtm">Green Jobs Survey</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/pressreleases/prlaus.shtm">Monthly Press Release - Local Area Unemployment Rates</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/pressreleases/pruistat.shtm">Monthly Press Release - Statewide Jobs Data</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Workforce Investment Act</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/workforcenypartners/lwia.shtm">Local Workforce Investment Boards</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workforce/swib/SWIBAbout.shtm">State Workforce Investment Board</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Legal</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/legal/index.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/adjudication-decisions.shtm">Adjudication Decisions</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/counsel-opinion-letters.shtm">Counsel Letters</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/frequently-asked-questions.shtm">Frequently Asked Questions</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/legal-updates.shtm">Legal Updates</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Public Work</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/publicwork/PWContents.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://wpp.labor.state.ny.us/wpp/publicViewPWChanges.do?method=showIt">Article 8 - Construction</a>
+											</li>
+											<li>
+												<a href="http://wpp.labor.state.ny.us/wpp/publicViewPWChangesArt9.do?method=showIt">Article 9 - Building Services</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/publicwork/PWDebarmentInformation.shtm">Debarred List</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="http://labor.ny.gov/nys-data-center/index.shtm">New York State Data Center</a>
+						</li>
+						<li>
+							<a href="http://labor.ny.gov/data-sharing/">Unemployment Insurance Data Sharing</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+
+					</li>
+					<li>
+						<a href="http://labor.ny.gov/home/other-information.php">Other Information</a>
+						
+			
+			<div class="sub-nav outer-sub-nav">
+				<nav class="container_16 ux-content">
+					<ul>
+						<li>
+							<a href="#">About Us</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >About Labor</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/about/index.shtm">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/about/history.shtm">Our History</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/about/services.shtm">Our Services</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Contact Us</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/secure/contact">Overview</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/equal-opportunity/how-to-file-a-discrimination-claim.shtm">File Discrimination Complaint</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/secure/foilrequest.shtm">FOIL Request</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/agencyinfo/report-fraud.shtm">Report Fraud</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workforcenypartners/warn/warnportal.shtm">WARN Notice</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Divisions</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Divisions</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/dews-index.shtm">Employment & Workforce Solutions</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/equal-opportunity/index.shtm">Equal Opportunity</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/immigrants/index.shtm">Immigrant Policies & Affairs</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/index.shtm">Legal</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/information-technology/index.shtm">Planning & Technology</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/index.shtm">Research & Statistics</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/unemploymentassistance.shtm">Unemployment Insurance</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/wp_index.shtm">Worker Protection</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Department FAQs</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/laborstandards/faq.shtm">Wages & Hours</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/legal/frequently-asked-questions.shtm">Legal</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/publicwork/PW_faq1.shtm">Prevailing Wage/Public Work</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/faq.shtm">Safety and Health</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/faq.shtm">Unemployment (Claimants)</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/frequently-requested-information.shtm">Unemployment (Employers)</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<strong >Newsroom</strong>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/pressreleases/prlaus.shtm">Monthly Press Release - Local Area Unemployment Rates</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/stats/pressreleases/pruistat.shtm">Monthly Press Release - Statewide Jobs Data</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/pressreleases/pressreleases.shtm">Press Releases & Public Notices</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Boards and Councils</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/erb/index.shtm">Employment Relations Board</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/hab/index.htm">Hazard Abatement Board</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/iba/index.asp">Industrial Board of Appeals</a>
+											</li>
+											<li>
+												<a href="http://www.labor.ny.gov/workforcenypartners/lwia.shtm">Local Workforce Investment Boards</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workerprotection/safetyhealth/DOSH_BOARDS.shtm">Safety and Health</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workforce/swib/SWIBAbout.shtm">State Workforce Investment Board</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/ui-appeal">Unemployment Insurance Appeal Board</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Forms & Publications</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/apprenticeship/apprenticeship-forms-and-publications.shtm">Apprenticeship</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/businessservices/buisness-services-forms-and-publications.shtm">Business Services</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/careerservices/career-services-forms-and-publications.shtm">Career Services</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/wp/ellsformsandpublications.shtm">Employment Laws/Labor Standards</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/DEOD/deodformsandpublications.shtm">Equal Opportunity</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/dipa/dipa-forms-publications.shtm">Immigrant Policies & Affairs</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/wp/pwformsandpublications.shtm">Prevailing Wage/Public Work</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/wp/shformsandpublications.shtm">Safety and Health Documents</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/ui/employer-forms-publications.shtm">Unemployment (Businesses)</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/formsdocs/ui/claimant-forms-and-publications.shtm">Unemployment (Claimants)</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/legal/frequently-asked-questions.shtm">Legal</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Initiatives</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://www.labor.ny.gov/apprenticeship/general/registration.shtm">Apprenticeship</a>
+											</li>
+											<li>
+												<a href="http://www.greencareersny.com/">Green Jobs</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://careerzone.ny.gov/">CareerZone</a>
+											</li>
+											<li>
+												<a href="http://jobzone.ny.gov/">JobZone</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://ridesafeny.com/">Ride Safe NY</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/ui/employerinfo/shared-work-program.shtm">Shared Work</a>
+											</li>
+										</ul>
+									</div>
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/youth">Youth Portal</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li>
+							<a href="#">Workforce Professionals</a>
+							<div class="sub-nav outer-sub-nav-2">
+								<nav class="container_16 ux-content group">
+									<div class="menu-column">
+										<ul>
+											<li>
+												<a href="http://labor.ny.gov/workforcenypartners/career-center-events.shtm">NYS Career Center Events</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/career-center-locator">New York State Career Centers</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workforcenypartners/tools.shtm">Programs and Tools</a>
+											</li>
+											<li>
+												<a href="http://labor.ny.gov/workforcenypartners/training-events.shtm">Training and Events</a>
+											</li>
+										</ul>
+									</div>
+								</nav>
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</div>
+
+					</li>
+				</ul>
+				</nav>
+			</div>
+		</header>
+		<div id="ux-page" class="group">
+			<div class="container_16 ux-content clearfix">
+
+				<noscript>
+					<div class="grid_16">
+					<p class=" ux-msg warning margin-bottom-none">
+						<strong>JavaScript is currently disabled in your web browser. </strong> 
+							<br />For full functionality of this site, it is necessary to enable JavaScript. 
+							Here are <a href="http://www.enable-javascript.com/" target="_blank">
+ 							instructions how to enable JavaScript</a>.
+					<p>
+					</div>	
+				</noscript>
+ 
+				<div id="ux-breadcrumbs" class="grid_16 clearfix">
+				<ul>
+						<li>
+							<a href="http://www.labor.ny.gov">Home</a>
+						</li>
+						 
+					
+					<li>Page Not Found</li>
+									</ul>
+		</div>
+				 
+
+		<div class="grid_4">
+	<nav id="ux-side-nav">
+		
+			<ul>
+	<li>
+		<a href="/agencyinfo/accessibility.shtm">Accessibility Policy</a>
+	</li>
+	<li>
+		<a href="/privacy.shtm">Privacy Policy</a>
+	</li>
+<li>
+		<a href="/utilities/document-readers.shtm">Document Reader Software</a>
+	</li>
+
+</ul>
+
+
+		</nav><!--end #ux-side-nav -->
+				</div><!-- end .grid_4 -->
+			<div class="grid_12">
+				<a name="content-anchor" id="content-anchor" tabindex="-1"></a>
+
+
+		
+				<h2>Page Not Found</h2>	
+	<p>
+We can't find the page you're looking for. It may have been removed, had its name changed, or is temporarily unavailable. If you reached this page by using your favorites or bookmarks, please update the link. 
+</p>
+<h3>Tips:</h3>
+<ul>
+	<li>Search the entire site (top-right)</li>
+	<li>Browse the master menu (above) </li>
+	<li>Browse the <a href="/home/a-z-index.shtm">A-Z Index</a></li>
+	<li>Head to the <a href="/">homepage</a></li>
+</ul>
+
+
+					<div id="ux-page-rating" class="grid_12">
+						<div id="ratings" class="group margin-bottom" data-type="insert" data-key="">
+							<p>
+								<span class="title h6">This Page...</span>
+								<a class="upvote" href="#">
+									<span class="text" >Was Helpful</span>
+								</a>
+								<a class="downvote" href="#">
+									<span class="text" >Needs Improvement</span>
+								</a>
+							</p>
+						</div>
+						<div class="grid_7 group" id="additional-info">
+							<form id="written-feedback" class="ux-form-top">
+								<label>	
+									<span>
+										What could be improved?
+									</span>
+									<textarea name="comment"></textarea>
+								</label>
+								<div id="rating-submit">
+									<input type="button" id="feedBackSubmit" class="button_mini no-icon primary" value="Send Feedback" />
+									<a href="#" class="no-comment">Don't leave comment</a>
+								</div>
+							</form>
+							<p id="pr-thank-you" class="h6 title ux-msg-inline success">
+								<span>Thanks for the feedback!  It will help us improve your experience.</span>
+							</p>
+						</div>
+					</div>		
+
+
+				</div>
+			</div>
+		</div>
+		<footer id="dol-footer" class="group">
+
+  	<div id="dol-footer-inner" class="container_16 ">
+  				
+		<div class="grid_3">
+			<h4>About Us</h4>
+				<ul >
+					<li><a href="/about/">Overview</a></li>
+					<li><a href="/about/history.shtm">Our History</a></li>
+					<li><a href="/about/services.shtm">Our Services</a></li>
+				</ul>	
+
+            <h4>Divisions</h4>
+			<ul >
+				<li><a href="/dews-index.shtm">Employment &amp; <br/>Workforce Solutions</a></li>
+				<li><a href="/equal-opportunity/index.shtm">Equal Opportunity</a></li>
+				<li><a href="/immigrants">Immigrant Policies &amp; Affairs</a></li>
+				<li><a href="/stats/index.shtm">Research &amp; Statistics</a></li>
+				<li><a href="/legal/">Legal</a></li>
+				<li><a href="/information-technology/index.shtm">Planning &amp; Technology</a></li>
+				<li><a href="/ui/ui_index.shtm">Unemployment Insurance</a></li>
+				<li><a href="/workerprotection/wp_index.shtm">Worker Protection</a></li>
+			</ul> 
+		</div>
+  				
+ 				
+  				
+        <div class="grid_3" >
+
+		<h4>Boards</h4>
+			<ul >
+				<li><a href="/erb/index.shtm">Employment Relations Board</a></li>
+				<li><a href="/hab/">Hazard Abatement Board</a></li>
+				<li><a href="/iba/index.asp">Industrial Board of Appeals</a></li>
+				<li><a href="/workforcenypartners/lwia.shtm">Local Workforce <br />Investment Boards</a></li>
+				<li><a href="/workforce/swib/SWIBAbout.shtm">State Workforce <br />Investment Board</a></li>
+				<li><a href="/ui-appeal/">Unemployment Insurance <br/>Appeal Board</a></li>
+			</ul>
+        </div> 
+
+		<div class="grid_3" style="">
+			<h4>Newsroom</h4>
+			<ul >
+				<li><a href="/pressreleases/pressreleases.shtm">Press Releases &amp; Public Notices</a></li>
+				<li><a href="/agencyinfo/publicmeeting.shtm">Public Meetings</a></li>
+				<li><a href="/workforcenypartners/warn/warnportal.shtm">WARN Notices</a></li>
+			</ul>
+
+			<h4>Initiatives</h4>
+			<ul >
+				<li><a href="/apprenticeship/appindex.shtm">Apprenticeship</a></li>
+				<li><a href="http://careerzone.ny.gov">CareerZone</a></li>
+				<li><a href="http://www.greencareersny.com">Green Jobs</a></li>
+				<li><a href="http://jobzone.ny.gov">JobZone</a></li>
+				<li><a href="http://nyworks.ny.gov/">Regional Economic Development Councils</a></li>
+				<li><a href="http://ridesafeny.com">Ride Safe NY</a></li>
+				<li><a href="/ui/employerinfo/shared-work-program.shtm">Shared Work</a></li>
+				<li><a href="/youth">Youth Portal</a></li>
+			</ul> 
+		</div>        
+		
+		<div id="footer-contact" class="grid_4 prefix_1 ">
+			<div id="contact-border"></div>			
+			<h4>Contact Us</h4>
+
+			<h5>Unemployment Insurance (UI)</h5>
+				<p class="list-header"><a href="/ui/claimantinfo/ContactInfo.shtm">Individual UI Claim Assistance</a></p>
+				<ul>
+					<li>(888) 209-8124</li>
+					<li>(877) 358-5306 (Outside NYS)</li>
+				</ul>
+				<p><a href="/ui/claimantinfo/ContactInfo.shtm">Other UI Contact Information</a></p>
+
+			<h5>NY.GOV ID Assistance</h5>						
+				<ul>
+					<li>(800) 833-3000</li>
+				</ul>
+			<h5>General Inquiries<span class="ux-header-subtitle">Unrelated to Individual UI claim assistance</span></h5>				
+				<ul>
+					<li>(518) 457-9000</li>
+					<li>(888) 4-NYSDOL (888-469-7365)</li>
+					<li>(800) 662-1220 TTY/TTD </li>
+					<li>
+						<a class="button_mini email" href="/secure/contact">E-mail</a>
+					</li>
+				</ul>
+
+			<address>
+				NYS Department of Labor<br/>
+				Building 12<br/>
+				W.A. Harriman Campus<br/>
+				Albany, NY 12240
+			</address>
+		</div>    	
+		<div id="footer-quick-nav" class="grid_2">
+
+								
+			<a class="button flag" style="width: 85px; margin-left: -10px;" href="/agencyinfo/report-fraud.shtm">Report Fraud</a>
+
+			<div id="footer-policies" >
+
+				<ul>
+						<li><a href="https://www.labor.ny.gov/secure/foilrequest.shtm">FOIL Request</a></li>
+						<li><a href="/agencyinfo/accessibility.shtm">Accessibility Policy</a></li>
+						<li><a href="/privacy.shtm">Privacy Policy</a></li>
+						<li><a href="/utilities/document-readers.shtm">Get Adobe Reader</a></li>
+				</ul>
+
+			</div> 
+ 
+			<div id="stay-connected">
+				<ul> 
+					<li><a href="http://www.facebook.com/nyslabor" id="facebooksm" target="_blank" class="ux-no-link-icon">Facebook</a></li>
+					<li><a href="http://twitter.com/nyslabor" id="twittersm" target="_blank" class="ux-no-link-icon">Twitter</a></li>
+					<li><a href="http://www.youtube.com/user/NYSLabor" id="youtubesm" target="_blank" class="ux-no-link-icon">YouTube</a></li>
+					<li><a href="https://www.linkedin.com/company/new-york-state-department-of-labor" id="linkedinsm" target="_blank" class="ux-no-link-icon">Linkedin</a></li>
+					<li><a href="https://plus.google.com/u/0/b/100504435163160870071/100504435163160870071/" id="googlesm" target="_blank" class="ux-no-link-icon">Google+</a></li>
+					<li><a href="http://instagram.com/nyslabor" id="instagramsm" target="_blank" class="ux-no-link-icon">Instagram</a></li>
+					<li><a href="http://www.pinterest.com/nysdol/" id="pinterestsm" target="_blank" class="ux-no-link-icon">Pintrest</a></li>
+					<li><a href="http://nyslabor.tumblr.com/" id="tumblrsm" target="_blank" class="ux-no-link-icon">Tumblr</a></li>
+				</ul>
+			</div>
+		</div>
+		<p id="dol-footer-equal" class="align-right margin-top grid_16">The New York State Department of Labor is an Equal Opportunity Employer/Program. Auxiliary aids and services are available upon request to individuals with disabilities.</p>
+	</div>  <!-- end foot-inner -->
+  				
+  	
+  				
+
+
+
+
+</footer> <!-- end #footer -->
+
+		<script data-main="true" src="//labor.ny.gov/css/apps/v.0.4.10/js/ux-script.min.js"></script>
+		<script src="/css/apps/js/ux-internet-content-utility-v.0.4.10.js"></script>
+
+
+
+
+
+
+	</body>
+
+</html>
