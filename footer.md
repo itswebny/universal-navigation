@@ -1,1 +1,1 @@
-# Content coming soon!
+Footer code and guidance is coming soon!
