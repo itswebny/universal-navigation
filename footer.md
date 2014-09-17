@@ -1,8 +1,17 @@
-Footer code and guidance is coming soon.
+###Footer code and guidance is coming soon.
 
-Screenshot of footer in context of ny.gov (desktop view):
+#### Screenshots for reference:
+
+##### Universal Navigation - Footer only (Desktop)
+
+![Footer Screenshot - desktop size](uni-footer.JPG "Footer Screenshot - desktop size")
 
 
-uni-nav-screenshot-services.JPG
+##### Universal Navigation - Footer only (Mobile)
+
+![Footer Screenshot - desktop size](uni-footer-phone.JPG "Footer Screenshot - desktop size")
+
+
+##### Universal Navigation in context of ny.gov (desktop view):
 
 ![Universal Navigation in context](uni-nav-screenshot-services.JPG "Universal Navigation in context")
