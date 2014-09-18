@@ -2,7 +2,7 @@
 
   - Use a development site or run a local version for the beta period. __This is not the final version.__
   - Add the footer at the bottom of your test pages
-  - Test for desktop and mobile [Tool for testing multiple devices](http://responsive.victorcoulon.fr/)
+  - Test for desktop and mobile ([Tool for testing multiple devices](http://responsive.victorcoulon.fr/))
   - Test for any specific needs of your site(s)
   - Take screenshots and reference in feedback
   - Thank you for participating!
