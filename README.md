@@ -39,7 +39,7 @@
 ### BETA Tasks for All Teams
 
   - Use a development site or run a local version for the beta period. ___This is not the final version.___
-  - Test for desktop and mobile ([Tool for testing multiple devices](http://responsive.victorcoulon.fr/))
+  - Test for desktop and mobile on various browsers ([Tool for testing multiple devices](http://responsive.victorcoulon.fr/))
   - Test for any specific needs of the site (accessibility, script conflicts)
   - Take screenshots and reference in feedback
   - Share your implementation strategy in Yammer (assume bugs will be fixed)
