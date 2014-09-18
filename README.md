@@ -35,7 +35,17 @@
   - Request access through the Office 365 interface after clicking link.
   - Review the existing issues to ensure that you are not creating duplicates.
   - Some issues from the ALPHA version feedback (also in spreadsheet) may still be pending.
- 
+
+### BETA Suggestions
+
+  - Use a development site or run a local version for the beta period. ___This is not the final version.___
+  - Test for desktop and mobile ([Tool for testing multiple devices](http://responsive.victorcoulon.fr/))
+  - Test for any specific needs of the site (accessibility, script conflicts)
+  - Take screenshots and reference in feedback
+  - Share your implementation strategy (assume bugs will be fixed)
+  - Thank you for participating!
+
+
 <br>
 ### Questions
 - Please post questions to the [Yammer Group](http://goo.gl/RRlnFV) for the mutual benefit of all
