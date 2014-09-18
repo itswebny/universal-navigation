@@ -18,6 +18,10 @@
 </div>
 ```
 
+##### See the header demos for a simple example
+
+- [Interactive Header Demo](http://nys-its.github.io/universal-navigation/demos/interactive-option-demo.html)
+- [Static Header Demo](http://nys-its.github.io/universal-navigation/demos/static-option-demo.html)
 
 
 
