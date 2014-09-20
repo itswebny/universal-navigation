@@ -1,5 +1,5 @@
 
-### Footer Embed Code
+### Footer Embed Code (pair with interactive banner)
 
 ```
 <div id="nygov-universal-footer">
@@ -11,6 +11,17 @@
         </iframe>
     </noscript>
 </div>
+```
+
+### Footer Embed Code (pair with static banner)
+
+```
+<iframe width="100%" height="86px" 
+  src="//nygov.prod.acquia-sites.com/load_global_footer/ajax?iframe=true" 
+  frameborder="0" style="border:none; overflow:hidden; 
+  width:100%; height:86px;" scrolling="no">
+</iframe>
+
 ```
 
 #### Screenshots for reference:
