@@ -2,10 +2,15 @@
 
 ## Implementation Guidelines
 
-- Tentative "go live" date: Monday 9/29/2014  (NY.GOV launch is tentatively scheduled for 9/28/2014 @ 9pm)
-- Check the Yammer Group (below) before for updates on finalization of launch.
-- Policy (update in progress)
+- Subscribe to email updates from the Yammer Group (below) to be notified as changes/additions happen to this guidance.
+- NYS "Common Web Banner" Policy (update in progress)
 - [Frequently Asked Questions](faqs.md)
+
+### Tentative Timeline 
+- 9/25/14-9/26/14 Thurs/Fri Stage Universal Navigation for deployment
+- 9/26/14 Fri Remove "Governor Widget" can be removed from websites
+- 9/28/14 Sun 9:00PM NY.GOV launch (tentative)
+- 9/29/2014 7:00AM Mon Launch of Universal Navigation on websites and apps (tentative)
 
 ## Universal Banner (choose 1 option)
 
@@ -27,7 +32,7 @@
 
 ### Yammer Group
 
-- Join the Universal Navigation [Yammer Group](http://goo.gl/RRlnFV) to discuss and give feedback.
+- Join the Universal Navigation [Yammer Group](http://goo.gl/RRlnFV) to ask questions, discuss or give feedback.
 - Subscribe to the group by email so that updates are delivered to you automatically.
 
 ### BETA Comment Period
