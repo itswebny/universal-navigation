@@ -7,10 +7,10 @@
 - [Frequently Asked Questions](faqs.md)
 
 ### Tentative Timeline 
-- 9/25/14-9/26/14 Thurs/Fri Stage Universal Navigation for deployment
-- 9/26/14 Fri Remove "Governor Widget" can be removed from websites
-- 9/28/14 Sun 9:00PM NY.GOV launch (tentative)
-- 9/29/2014 7:00AM Mon Launch of Universal Navigation on websites and apps (tentative)
+- **9/25/14-9/26/14 Thurs/Fri** Stage Universal Navigation for deployment
+- **9/26/14 Fri** Remove "Governor Widget" from websites
+- **9/28/14 Sun 9:00PM** NY.GOV launch (tentative)
+- **9/29/2014 7:00AM Mon** Launch Universal Navigation on websites and apps (tentative)
 
 ## Universal Banner (choose 1 option)
 
