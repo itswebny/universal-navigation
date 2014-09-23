@@ -2,6 +2,8 @@
 
 ## Implementation Guidelines
 
+- Tentative "go live" date: Monday 9/29/2014  (NY.GOV launch is tentatively scheduled for 9/28/2014 @ 9pm)
+- Check the Yammer Group (below) before for updates on finalization of launch.
 - Policy (update in progress)
 - [Frequently Asked Questions](faqs.md)
 
