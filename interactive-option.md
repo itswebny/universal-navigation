@@ -1,4 +1,4 @@
-## Option #1: Interactive Universal Navigation
+## Option #1: Interactive Universal Navigation & Footer
 
 ```
 <div id="nygov-universal-navigation" data-iframe="true">
@@ -28,5 +28,15 @@
     </script>
 </div>
 ```
+### Footer Embed Code (pair with interactive banner)
 
+```
+<div id="nygov-universal-footer">
+    <noscript>
+        <iframe width="100%" height="86px" src="//nygov.prod.acquia-sites.com/load_global_footer/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
+            Your browser does not support iFrames
+        </iframe>
+    </noscript>
+</div>
+```
 
