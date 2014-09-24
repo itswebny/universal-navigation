@@ -6,7 +6,7 @@
 > The design is finalized, but any major user experience or functional issues will be addressed before launch. If there are unresolved issues that would impact the user experience on a website, fall back to the simplified static version. After launch, issues and enhancement suggestions will be tracked and reviewed and the universal navigation will be iteratively improved. 
 
 ### Will the Policy be updated?
-> Yes. After the BETA feedback.
+> Yes. After the BETA feedback improvements have been finalized and a launch date is set. (previous policy for reference http://on.ny.gov/1uXDHuI)
 
 ### How can agency leadership or press offices get more non-techical information about the universal navigation?
 > If there are non-technical more strategic questions that are not answered in the FAQs, questions can be elevated through PIO channels to the [Media Services Center](http://www.ogs.ny.gov/Core/MSC/) as the Chamber is sponsoring and guiding the effort from a user/citizen experience perspective. Please also share this site with any website stakeholders.
