@@ -1,5 +1,8 @@
 ## Option #1: Interactive Universal Navigation & Footer
 
+ - ___Place this code at the very top of your site, outside of any container divs, etc. The header should expand to 100% of the screen, even if your current site has a fixed width.___
+
+
 ```
 <div id="nygov-universal-navigation" data-iframe="true">
     <noscript>
@@ -29,6 +32,9 @@
 </div>
 ```
 ### Footer Embed Code (pair with interactive banner)
+
+ - ___Place this code at the very bottom of your site, outside of any container divs, etc. The footer should expand to 100% of the screen, even if your current site has a fixed width.___
+
 
 ```
 <div id="nygov-universal-footer">
