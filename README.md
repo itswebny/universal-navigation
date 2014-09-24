@@ -7,6 +7,8 @@
 - [Frequently Asked Questions](faqs.md)
 
 ### Tentative Timeline 
+- **9/3/2014-9/11/2014** Limited ALPHA Testing & Comment Period
+- **9/17/2014-9/19/2014 Wed-Fri** Open BETA Testing & Comment Period 
 - **9/25/14 Thurs** Universal Navigation Final embed code ready
 - **9/25/14-9/26/14 Thurs/Fri** Stage Universal Navigation for deployment
 - **9/26/14 Fri** Remove "Governor Widget" from websites
