@@ -7,7 +7,7 @@
 - [Frequently Asked Questions](faqs.md)
 
 ### Tentative Timeline 
-- **9/25/14** Universal Navigation Final embed code ready
+- **9/25/14 Thurs** Universal Navigation Final embed code ready
 - **9/25/14-9/26/14 Thurs/Fri** Stage Universal Navigation for deployment
 - **9/26/14 Fri** Remove "Governor Widget" from websites
 - **9/28/14 Sun 9:00PM** NY.GOV launch (tentative)
