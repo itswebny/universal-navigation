@@ -20,5 +20,8 @@
 ### Which Universal Navigation should be chosen?
 > There are two options for the Universal Navigation: static and interactive. Websites may choose to implement the option that best fits the needs of each site. 
 
+### What if there are oustanding bugs with the interactive version of the banner?
+> BETA feedback will be addressed. In the interim, fall back to the static version of the banner if issues are yet to be resolved with the interactive version or are not resolved sufficently for a site's needs.
+
 ### How will issues be tracked after launch?
 > [GitHub Issues](https://github.com/nys-its/universal-navigation/issues) in this repo will be used to track feedback, issues, and enhancement requests after the Universal Navigation is released.
