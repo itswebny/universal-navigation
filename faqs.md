@@ -17,5 +17,8 @@
 ### In the Banner several links are not HTTPS which will cause a certificate error on HTTPS pages, will this be rectified?
 > SSL Cert is currently in progress. All links will be HTTPS in final code.
 
+### Which Universal Navigation should be chosen?
+> There are two options for the Universal Navigation: static and interactive. Websites may choose to implement the option that best fits the needs of each site. 
+
 ### How will issues be tracked after launch?
 > [GitHub Issues](https://github.com/nys-its/universal-navigation/issues) in this repo will be used to track feedback, issues, and enhancement requests after the Universal Navigation is released.
