@@ -5,9 +5,6 @@
 >
 > The design is finalized, but any major user experience or functional issues will be addressed before launch. If there are unresolved issues that would impact the user experience on a website, fall back to the simplified static version. After launch, issues and enhancement suggestions will be tracked and reviewed and the universal navigation will be iteratively improved. 
 
-### When will the embed code be finalized?
-> The current plan is to have a __two day BETA comment period__ with finalization happening ASAP so that teams have sufficient lead time to implement.
-
 ### Will the Policy be updated?
 > Yes. After the BETA feedback.
 
