@@ -25,3 +25,6 @@
 
 ### How will issues be tracked after launch?
 > [GitHub Issues](https://github.com/nys-its/universal-navigation/issues) in this repo will be used to track feedback, issues, and enhancement requests after the Universal Navigation is released.
+
+### How will the Universal Navigation search field work with our local search?
+> The interactive Universal Navigation's search results will first be scoped to the domain of the current site, with the user having the ability to see global results if desired. If this is satisfactory, the existing site search can be removed. If a site's search functionality is needed because of special collections or features, the static Universal Navigation can be used - which will not include a search box.
