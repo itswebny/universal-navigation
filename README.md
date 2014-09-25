@@ -9,11 +9,12 @@
 ### Tentative Timeline 
 - ~~**9/3/2014-9/11/2014** Limited ALPHA Testing & Comment Period~~
 - ~~**9/17/2014-9/19/2014 Wed-Fri** Open BETA Testing & Comment Period~~ 
-- **9/25/14 Thurs** Universal Navigation Final embed code ready
-- **9/25/14-9/26/14 Thurs/Fri** Stage Universal Navigation for deployment
-- **9/26/14 Fri** Remove "Governor Widget" from websites
-- **9/28/14 Sun 9:00PM** NY.GOV launch (tentative)
-- **9/29/2014 7:00AM Mon** Launch Universal Navigation on websites and apps (tentative)
+- **9/25/14 Thurs** Universal Navigation final embed code freeze
+- **9/26/14 Fri** Universal Navigation functionality code freeze 
+- **9/26/14-9/29/14 Fri-Mon** Stage Universal Navigation for deployment and stage Governor's widget removal
+- **9/29/14 Mon** Remove "Governor Widget" from websites
+- **9/29/14 Mon 9:00PM** NY.GOV launch (tentative)
+- **9/30/2014 7:00AM Tue** Launch Universal Navigation on websites and apps (tentative)
 
 ## Universal Banner (choose 1 option)
 
