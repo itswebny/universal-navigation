@@ -10,7 +10,7 @@
 - ~~**9/3/2014-9/11/2014** Limited ALPHA Testing & Comment Period~~
 - ~~**9/17/2014-9/19/2014 Wed-Fri** Open BETA Testing & Comment Period~~ 
 - **9/26/14 Fri** Universal Navigation final embed code freeze
-- **9/26/14 Fri** Universal Navigation functionality code freeze 
+- **9/26/14 Fri** Universal Navigation [Release Candidate](http://en.wikipedia.org/wiki/Software_release_life_cycle) 1 (any further changes will likely not involve changing embed codes)
 - **9/26/14-9/29/14 Fri-Mon** Stage Universal Navigation for deployment and stage Governor's widget removal
 - **9/29/14 Mon** Remove "Governor Widget" from websites
 - **9/29/14 Mon 9:00PM** NY.GOV launch (tentative)
