@@ -1,6 +1,6 @@
 ## Option #1: Interactive Universal Navigation & Footer
 
- - ___Place this code at the very top of your site, outside of any container divs, and as close to the opening <body> tag as possible. The header should expand to 100% of the screen width, even if your current site has a fixed width.___
+ > ___Place this code at the very top of your site, outside of any container divs, and as close to the opening <body> tag as possible. The header should expand to 100% of the screen width, even if your current site has a fixed width.___
 
 
 ```
