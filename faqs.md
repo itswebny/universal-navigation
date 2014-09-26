@@ -31,3 +31,6 @@
 
 ### Where should the universal navigation be deployed?
 > All public facing websites and web applications shoud implement the universal navigation. Intranets and internal applications are not currently in scope.  If you feel that there is an exception, please raise it in the Yammer group.  The Universal Navigation policy (being drafted) will also communicate the scope.
+
+### What browsers does the universal navigation support?
+> The interactive banner supports IE8+, Sites that support <IE8 will need to implement the static banner. More detailed browser support levels will be posted soon.
