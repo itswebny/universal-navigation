@@ -34,7 +34,7 @@ ___!!! Place this code at the very top of your site, outside of any container di
 ```
 ### Footer Embed Code (pair with interactive banner)
 
- - ___!!! Place this code at the very bottom of your site, outside of any container divs, as close to and before the closing \<body\> tag. The footer should expand to 100% of the screen, even if your current site has a fixed width. !!!___
+ ___!!! Place this code at the very bottom of your site, outside of any container divs, as close to and before the closing \<body\> tag. The footer should expand to 100% of the screen, even if your current site has a fixed width. !!!___
 
 
 ```
