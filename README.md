@@ -9,7 +9,7 @@
 ### Tentative Timeline 
 - ~~**9/3/2014-9/11/2014** Limited ALPHA Testing & Comment Period~~
 - ~~**9/17/2014-9/19/2014 Wed-Fri** Open BETA Testing & Comment Period~~ 
-- **9/25/14 Thurs** Universal Navigation final embed code freeze
+- **9/26/14 Fri** Universal Navigation final embed code freeze
 - **9/26/14 Fri** Universal Navigation functionality code freeze 
 - **9/26/14-9/29/14 Fri-Mon** Stage Universal Navigation for deployment and stage Governor's widget removal
 - **9/29/14 Mon** Remove "Governor Widget" from websites
