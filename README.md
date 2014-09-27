@@ -1,4 +1,6 @@
-# Universal Navigation
+# NY State Universal Navigation
+
+The Universal Navigation is part of New York State’s planned progress toward creating exceptional digital experiences for citizens, business, and visitors. The navigation connects all websites to NY.GOV both visually and interactively. Because it is persistent and consistent on all public-facing NYS websites, users will be enabled to easily navigate to government services from anywhere across the “NYS web”. 
 
 ## Implementation Guidelines
 
