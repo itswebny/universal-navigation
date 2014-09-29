@@ -1,5 +1,8 @@
 ## Option #2: Simple iFrame Universal Navigation & Footer
 
+##### Using Internet Explorer? Be sure you are not running in "_Compatibility Mode_" when testing:
+> Press the `F12 Key`, and click "Internet Explorer X Compatibilty Mode" and change to latest non-compatibility mode from the dropdown
+
 ___!!! Place this code at the very top of your site, outside of any container divs, and as close to the opening \<body\> tag as possible. The header should expand to 100% of the screen width, even if your current site has a fixed width. !!!___
 
 
