@@ -15,9 +15,9 @@ The Universal Navigation is part of New York State’s planned progress toward c
 - ~~**9/26/14 Fri** Universal Navigation [Release Candidate](http://en.wikipedia.org/wiki/Software_release_life_cycle) 1 (any further changes will likely not involve changing embed codes)~~
 - **9/29/14 Mon** Bug fixes continue toward Universal Navigation [Release Candidate](http://en.wikipedia.org/wiki/Software_release_life_cycle) 2 (any further changes will likely not involve changing embed codes)
 - **9/26/14-9/29/14 Fri-Mon** Stage Universal Navigation for deployment and stage Governor's widget removal
-- **9/29/14 Mon** Remove "Governor Widget" from websites
-- **9/29/14 Mon 9:00PM** NY.GOV launch (tentative)
-- **9/30/2014 7:00AM Tue** Launch Universal Navigation on websites and apps (tentative)
+- **The day before NY.GOV launch** Remove "Governor Widget" from websites 
+- **TBD** NY.GOV launch 
+- **The day after NY.GOV launch** Launch Universal Navigation on websites and apps 
 
 ## Universal Banner (choose 1 option)
 
