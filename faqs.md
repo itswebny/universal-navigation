@@ -36,4 +36,4 @@
 > The interactive banner supports IE8+, Sites that support <IE8 will need to implement the static banner. More detailed browser support levels will be posted soon.
 
 ### What is the purpose of the integration of the Google Tag Manager code?
-> [Google Tag Manager](http://www.google.com/tagmanager/faq.html) will enable futue deployment and central management of universal analytics or other experience monitoring tools without page code changes each time. At present, Google Tag Manager is not be serving any functionality. Any implementations will involve communications with the technical owners of each web property. 
+> [Google Tag Manager](http://www.google.com/tagmanager/faq.html) will enable futue deployment and central management of universal analytics or other experience monitoring tools without page code changes each time. At present, Google Tag Manager is not serving any functionality. Any implementations will involve communications with the technical owners of each web property. 
