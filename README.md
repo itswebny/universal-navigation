@@ -24,17 +24,17 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 #### Interactive Banner Option
 
-- [Instructions and embed code](notes/interactive-option.md)
+- [Instructions and embed code] (notes/interactive-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/demos/interactive-option-demo.html)
 
 #### Static Banner Option
 
-- [Instructions and embed code](notes/static-option.md)
+- [Instructions and embed code] (notes/static-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/demos/static-option-demo.html)
 
 ## Universal Footer (required)
 
-- [Instructions](notes/footer.md)
+- [Instructions] (notes/footer.md)
 
 ## Feedback
 
