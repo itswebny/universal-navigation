@@ -14,8 +14,9 @@
     - status
     - priority
 
-See other optional labels at
-https://github.com/nys-its/universal-navigation/labels
+### Reference
+- See other optional labels at https://github.com/nys-its/universal-navigation/labels
+- How to add labels to issues http://goo.gl/UHD561
 
 Create an issue if any of the labels need more clarification
 
