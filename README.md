@@ -6,7 +6,7 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 - Subscribe to email updates from the Yammer Group (below) to be notified as changes/additions happen to this guidance.
 - NYS "Common Web Banner" Policy (update in progress)
-- [Frequently Asked Questions](faqs.md)
+- [Frequently Asked Questions](notes/faqs.md)
 
 ### Tentative Timeline 
 - ~~**9/3/2014-9/11/2014** Limited ALPHA Testing & Comment Period~~
@@ -24,17 +24,17 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 #### Interactive Banner Option
 
-- [Instructions and embed code](interactive-option.md)
+- [Instructions and embed code](notes/interactive-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/demos/interactive-option-demo.html)
 
 #### Static Banner Option
 
-- [Instructions and embed code](static-option.md)
+- [Instructions and embed code](notes/static-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/demos/static-option-demo.html)
 
 ## Universal Footer (required)
 
-- [Instructions](footer.md)
+- [Instructions](notes/footer.md)
 
 ## Feedback
 
