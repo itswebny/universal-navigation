@@ -1,3 +1,7 @@
+## Issue Naming
+- Create descriptive names that represent the nature of the problem, rather than your site or instance.
+- Propose a renaming of an issue in a comment if you do not have the ability to change it directly.
+
 ## Labels
 
 ### Each issue should have minimum required labels
