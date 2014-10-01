@@ -17,6 +17,7 @@
 - If your issue is a duplicate of another issue, read the original issue, as comments may give enough temporarily until a permanent solution is fully realized.
 - Keep issues, and comments contstructive and respectful (GitHub is a public place... deconstrutive comments will be deleted).
 - Abstract your problem... avoid mentioning names or any information that may be sensitive.
+- Review the "Mastering Issues" GitHub Tutorial https://guides.github.com/features/issues/
 
 ### Problem Identification
 
@@ -52,7 +53,7 @@
 
 ### Reference
 - See other optional labels at https://github.com/nys-its/universal-navigation/labels
-- How to add labels to issues http://goo.gl/UHD561
+
 
 Create an issue if any of the labels need more clarification
 
