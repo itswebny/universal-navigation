@@ -50,6 +50,8 @@
     - type (requried)
     - status
     - priority
+      - critical: impacts all users or all users of a certain site
+      - moderate: only impacts subset of users
 
 ### Reference
 - See other optional labels at https://github.com/nys-its/universal-navigation/labels
