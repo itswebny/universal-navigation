@@ -14,7 +14,7 @@
 ## Creating Issues
 
 - Search and review the current issues to see if anyone else has already reported it (Duplicate issues will be closed).
-- If your issue is a duplicate of another issue, read the original issue, as comments may give enough temporarily until a permanent solution is fully realized.
+- If your issue is a duplicate of another issue, read the original issue, as comments may give enough temporarily information until a permanent solution is fully realized.
 - Keep issues, and comments contstructive and respectful (GitHub is a public place... deconstrutive comments will be deleted).
 - Abstract your problem... avoid mentioning names or any information that may be sensitive.
 - Review the "Mastering Issues" GitHub Tutorial https://guides.github.com/features/issues/
@@ -26,7 +26,7 @@
   - Screenshot illustrating issue
   - URL that currently exhibits the problem (Might not be possible for all people)
   - Operating System, Browser/version
-  - Whether or not you are behind an aggressive firewall or not (many state agencies meet this criteria)
+  - Whether or not you are behind an aggressive firewall or not (many state agencies are)
   - Detailed description of your issue.
   - Steps needed to replicate the issue.
 
