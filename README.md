@@ -5,7 +5,6 @@ The Universal Navigation is part of New York State’s planned progress toward c
 ## Implementation Guidelines
 
 - Subscribe to email updates from the Yammer Group (below) to be notified as changes/additions happen to this guidance and to be informed of details of the rollout timeline.
-- NYS "Common Web Banner" Policy (update in progress)
 - [Frequently Asked Questions](notes/faqs.md)
 
 ## Universal Banner (choose 1 option)
