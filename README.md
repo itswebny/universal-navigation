@@ -4,21 +4,9 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 ## Implementation Guidelines
 
-- Subscribe to email updates from the Yammer Group (below) to be notified as changes/additions happen to this guidance.
+- Subscribe to email updates from the Yammer Group (below) to be notified as changes/additions happen to this guidance and to be informed of details of the rollout timeline.
 - NYS "Common Web Banner" Policy (update in progress)
 - [Frequently Asked Questions](notes/faqs.md)
-
-### Tentative Timeline 
-- ~~**9/3/2014-9/11/2014** Limited ALPHA Testing & Comment Period~~
-- ~~**9/17/2014-9/19/2014 Wed-Fri** Open BETA Testing & Comment Period~~ 
-- ~~**9/26/14 Fri** Universal Navigation embed code Release Candidate 1~~
-- ~~**9/26/14 Fri** Universal Navigation [Release Candidate](http://en.wikipedia.org/wiki/Software_release_life_cycle) 1 (any further changes will likely not involve changing embed codes)~~
-- **9/29/14 Mon** Universal Navigation embed code Release Candidate 2 testing continues
-- **9/29/14 Mon** Bug fixes continue toward Universal Navigation [Release Candidate](http://en.wikipedia.org/wiki/Software_release_life_cycle) 2 (any further changes will likely not involve changing embed codes)
-- **9/26/14-9/29/14 Fri-Mon** Stage Universal Navigation for deployment and stage Governor's widget removal
-- **last business day before NY.GOV launch** Remove "Governor Widget" from websites 
-- **TBD** NY.GOV launch (likely a Sunday evening)
-- **The day after NY.GOV launch** Launch Universal Navigation on websites and apps 
 
 ## Universal Banner (choose 1 option)
 
