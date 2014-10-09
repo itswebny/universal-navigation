@@ -56,6 +56,10 @@
 ### Reference
 - See other optional labels at https://github.com/nys-its/universal-navigation/labels
 
+### Filters
+- Issues with no milestone http://git.io/wVmSBw
+- Issues scoped for NY.GOV Launch http://git.io/BrPeMA
+- is:open is:issue milestone:"Before NY.GOV Launch" -label:discussed  http://git.io/UtO7Pg
 
 Create an issue if any of the labels need more clarification
 
