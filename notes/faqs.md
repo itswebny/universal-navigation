@@ -1,7 +1,7 @@
 ## Frequently Asked Questions
 
 ### Where should the universal navigation be deployed?
-> All public facing websites and web applications shoud implement the universal navigation. Intranets and internal applications are not currently in scope.  If you feel that there is an exception, please raise it in the Yammer group.  The Universal Navigation policy (being drafted) will also communicate the scope.
+> All public facing websites and web applications should implement the universal navigation. Intranets and internal applications are not currently in scope.  If you feel that there is an exception, please raise it in the Yammer group.  The Universal Navigation policy (being drafted) will also communicate the scope.
 
 ### Which Universal Navigation banner should be chosen?
 > There are two options for the Universal Navigation: static and interactive. Websites may choose to implement the option that best fits the needs of each site. 
@@ -40,4 +40,4 @@
 > The interactive banner supports IE8+, Sites that support <IE8 will need to implement the static banner. More detailed browser support levels will be posted soon.
 
 ### What is the purpose of the integration of the Google Tag Manager code?
-> [Google Tag Manager](http://www.google.com/tagmanager/faq.html) will enable futue deployment and central management of universal analytics or other experience monitoring tools without page code changes each time. At present, Google Tag Manager is not serving any functionality. Any implementations will involve communications with the technical owners of each web property. 
+> [Google Tag Manager](http://www.google.com/tagmanager/faq.html) will enable future deployment and central management of universal analytics or other experience monitoring tools without page code changes each time. At present, Google Tag Manager is not serving any functionality. Any implementations will involve communications with the technical owners of each web property. 
