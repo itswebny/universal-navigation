@@ -38,6 +38,7 @@
 - If after research, an issue's scope is understood, it may be brought back to a global milestone.
 
 ##### Steps to Determine Scope
+- Determine if someone else can replicate the issue with the same device/OS/browser.
 - Determine in the issue is just affecting your site/app or if it is more widespread (see the [site tracking spreadsheet](http://on.ny.gov/110a8hc) to find other sites to test against)
 - Test in multiple browsers and devices (ask others for assistance if there is a certain target device you need to test).
 - Summarize all your results at the very top of the issue for easy reference.
