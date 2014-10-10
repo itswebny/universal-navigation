@@ -32,6 +32,15 @@
 
 > Issues that do not follow the contributing.md guidelines may be closed.
 
+##### Determining Issue Effect Scope
+- Issues effect may be to a single browser, device, physical location, site instance, or other subsets of users.
+- If issues are not immediately apparent to affect a large portion of the userbase, they will be put into the milestone "Instance Issues" where research can be done to further define the effect scope and to get peer assistance.
+- If after research, an issue's scope is understood, it may be brought back to a global milestone.
+
+##### Steps to Determine Scope
+- Determine in the issue is just affecting your site/app or if it is more widespread (see the [site tracking spreadsheet](http://on.ny.gov/110a8hc) to find other sites to test against)
+- Test in multiple browsers and devices (ask others for assistance if there is a certain target device you need to test).
+- Summarize all your results at the very top of the issue for easy reference.
 
 ## Issue Naming
 - Create descriptive names that represent the nature of the problem, rather than your site or instance.
