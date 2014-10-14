@@ -74,7 +74,8 @@
 Create an issue if any of the labels need more clarification
 
 ## Milestones
-- Issues should be placed in "ITS Reviewing" milestone where all new issues will be incubated until they either get Iceboxed, pulled to an instance/documentation milestone, or after full discovery and consensus (ITS and Dev Partner) are moved to "NY.GOV Launch - Development".  
+- New issues should be placed in "ITS Reviewing" milestone http://git.io/HsPWnQ where all new issues will be incubated until they either get Iceboxed or pulled to an instance/documentation milestone.
+- After full discovery and consensus (ITS and Dev Partner) issues can be moved to "NY.GOV Launch - Development" http://git.io/3ToKZw.  
 - Milestones https://github.com/nys-its/universal-navigation/milestones
 - Issues will be tasked to a milestone (by an admin) so that sprints can be scoped and there is an indication of when issues will be addressed.
 - If you re-milestone an issue, comment to communicate your rational, or discuss before moving.
