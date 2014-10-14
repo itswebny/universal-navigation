@@ -73,13 +73,18 @@
 
 Create an issue if any of the labels need more clarification
 
-## Getting Things Done 
+## Milestones
+- Issues should be placed in "ITS Reviewing" milestone where all new issues will be incubated until they either get Iceboxed, pulled to an instance/documentation milestone, or after full discovery and consensus (ITS and Dev Partner) are moved to "NY.GOV Launch - Development".  
 - Milestones https://github.com/nys-its/universal-navigation/milestones
 - Issues will be tasked to a milestone (by an admin) so that sprints can be scoped and there is an indication of when issues will be addressed.
 - If you re-milestone an issue, comment to communicate your rational, or discuss before moving.
 - Create an issue if any milestones could be better named or described.
+
+## Getting Things Done 
 - If you can fix an issue yourself (guidance and demos for this repo), assign yourself to an issue, or comment to claim (admin will assign).
 - If contributing, [Fork the repo](https://help.github.com/articles/fork-a-repo), make changes and [create a pull request](https://help.github.com/articles/using-pull-requests) (If that's "all greek to you"... just help contribute to issues for now... we'll share tutorials at a later date)
+
+
 
 ## ProTips
 - Reference other issues by typing their number in your comment (EX: "This is a sub issue of #33") (#33 comes from url: https://github.com/ny/universal-navigation/issues/33)
