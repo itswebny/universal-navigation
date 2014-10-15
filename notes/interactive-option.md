@@ -51,7 +51,7 @@ ___!!! Place this code at the very top of your site, outside of any container di
 ```html
 <div id="nygov-universal-footer">
     <noscript>
-        <iframe width="100%" height="86px" src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
+        <iframe width="100%" height="200px" src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:200px;" scrolling="no">
             Your browser does not support iFrames
         </iframe>
     </noscript>
