@@ -14,7 +14,7 @@
 ### Footer Embed Code (pair with static banner)
 
 ```
-<iframe width="100%" height="86px" src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
+<iframe width="100%" height="200px" src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:200px;" scrolling="no">
             Your browser does not support iFrames
 </iframe>
 
