@@ -65,6 +65,8 @@ ___!!! Place this code at the very top of your site, outside of any container di
 
 Append `&target=blank` to the URL in the `<iframe src>`.
 
+***Note:*** This option will only apply to the banner if JavaScript is unsupported or fails. The interactive banner does not currently support this option. The footer will always open links in new windows if you apply this option.
+
 **Banner:**
 
 ```
