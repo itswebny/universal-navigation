@@ -58,3 +58,21 @@ ___!!! Place this code at the very top of your site, outside of any container di
 </div>
 
 ```
+
+## Available Settings
+
+### Hide Settings Dropdown
+
+Change `hideSettings` to `true` in the configuration for _NY:
+
+```js
+hideSettings : true,
+```
+
+### Hide Search
+
+Change `hideSearch` to `true` in the configuration for _NY:
+
+```js
+hideSearch : true
+```
