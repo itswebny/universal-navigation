@@ -54,7 +54,7 @@ The interactive banner supports IE8+, Sites that support <IE8 will need to imple
 
 ### What if I want to disable the translate option for my sites?
 
-There is a setting to disable the "settings" dropdown in the uNav. It is documented here: [Hide Settings Drowdown](interactive-option.md#hide-settings-dropdown)
+There is a setting to disable the "settings" dropdown in the uNav. It is documented here: [Hide Settings Dropdown](interactive-option.md#hide-settings-dropdown)
 
 ### What if I want to disable the search feature in the uNav?
 
