@@ -8,7 +8,7 @@ All public facing websites and web applications should implement the universal n
 
 There are two options for the Universal Navigation: static and interactive. Websites may choose to implement the option that best fits the needs of each site. 
 
-If your site requires that links form the banner open in a new window/tab, then you must use the static version and enable that option. The interactive version does not support this option and all links will open in the same window.
+If your site requires that links form the banner open in a new window/tab, then you must use the static version and [enable that option](https://github.com/patik/universal-navigation/blob/gh-pages/notes/static-option.md#open-links-in-new-windows-or-tabs). The interactive version does not support this option and all links will open in the same window.
 
 ### Is this the final code, banner, and footer?
 
