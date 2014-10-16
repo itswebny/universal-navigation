@@ -28,3 +28,21 @@ ___!!! Place this code at the very top of your site, outside of any container di
 </iframe>
 
 ```
+
+## Available Settings
+
+### Open links in new windows or tabs
+
+Append `&target=blank` to the URL in the `<iframe src>`.
+
+**Banner:**
+
+```
+src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true&target=blank"
+```
+
+**Footer:**
+
+```
+src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true&target=blank"
+```
