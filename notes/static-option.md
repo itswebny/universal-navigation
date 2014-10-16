@@ -38,11 +38,11 @@ Append `&target=blank` to the URL in the `<iframe src>`.
 **Banner:**
 
 ```
-src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true&target=1"
+src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true&target=blank"
 ```
 
 **Footer:**
 
 ```
-src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true&target=1"
+src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true&target=blank"
 ```
