@@ -6,7 +6,7 @@ All public facing websites and web applications should implement the universal n
 
 ### Which Universal Navigation banner should be chosen?
 
-There are two options for the Universal Navigation: static and interactive. Websites may choose to implement the option that best fits the needs of each site. 
+There are two options for the Universal Navigation: static and interactive. Websites may choose to implement the option that best fits the needs of each site.  If problems persist while implementing the interactive universal banner, fall back to using the static version until the issue is resolved.
 
 If your site requires that links form the banner open in a new window/tab, then you should use the static version and [enable that option](static-option.md#open-links-in-new-windows-or-tabs). The interactive version does not support this option and all links will open in the same window.
 
