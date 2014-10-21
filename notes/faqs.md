@@ -64,8 +64,8 @@ There is a setting to disable the search feature in the uNav. It is documented h
 
 The unniversal navigation was designed to take up the entire width of the webpage.  Therefore, all attempts should be made to implement the universal navigation as such.  If both static and interactive versions of the universal navigation are causing issues at full width, then specific exclusions can be made to alter the size of the universal navigation.  If this is the case, make sure to update/note the issue in the [tracking spreadsheet](http://on.ny.gov/1s24y7T) for the navigation implementation.
 
-### When can the Universal Navigaton be placed in containers, ```<div>``` tags, or other locations away from the ```<body>``` tag?
+### When can the Universal Navigaton be placed in containers, `<div>` tags, or other locations away from the `<body>` tag?
 
-As specified in the [implementation instructions](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/interactive-option.md), the code for the universal navigation should be placed as close as possible to the ```<body>``` tag without being inside a respective div or container.
+As specified in the [implementation instructions](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/interactive-option.md), the code for the universal navigation should be placed as close as possible to the `<body> tag without being inside a respective div or container.
 
 In specific instances where the code needs to be placed in a container to resolve site issues (such as a styling/CSS issue), testing should be done to make sure that the universal navigation remains usable across all functions.
