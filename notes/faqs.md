@@ -66,6 +66,6 @@ The unniversal navigation was designed to take up the entire width of the webpag
 
 ### When can the Universal Navigaton be placed in containers, `<div>` tags, or other locations away from the `<body>` tag?
 
-As specified in the [implementation instructions](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/interactive-option.md), the code for the universal navigation should be placed as close as possible to the `<body>' tag without being inside a respective div or container.
+As specified in the [implementation instructions](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/interactive-option.md), the code for the universal navigation should be placed as close as possible to the `<body>` tag without being inside a respective div or container.
 
 In specific instances where the code needs to be placed in a container to resolve site issues (such as a styling/CSS issue), testing should be done to make sure that the universal navigation remains usable across all functions.
