@@ -18,8 +18,8 @@ ___!!! Place this code at the very top of your site, outside of any container di
     </noscript>
     <script type="text/javascript">
         var _NY = {
-            HOST: "assets.nygov.dev",
-            BASE_HOST: "nygov.dev",
+            HOST: "static-assets.ny.gov",
+            BASE_HOST: "www.ny.gov",
             hideSettings: false,
             hideSearch: false
         };
