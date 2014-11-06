@@ -8,7 +8,7 @@ All public facing websites and web applications should implement the universal n
 
 There are two options for the Universal Navigation: static and interactive. Websites may choose to implement the option that best fits the needs of each site.  If problems persist while implementing the interactive universal banner, fall back to using the static version until the issue is resolved.
 
-If your site requires that links form the banner open in a new window/tab, then you should use the static version and [enable that option](static-option.md#open-links-in-new-windows-or-tabs). The interactive version does not support this option and all links will open in the same window.
+If your site requires that links from the banner open in a new window/tab, then you should use the static version and [enable the option to open links in a new window/tab](static-option.md#open-links-in-new-windows-or-tabs). The interactive version does not support this option and all links will open in the same window.
 
 ### Is this the final code, banner, and footer?
 
@@ -32,9 +32,37 @@ Though all applications should attempt to replace the banner at the NY.GOV launc
 
 SSL Cert is currently in progress. All links will be HTTPS in final code.
 
-### What if there are oustanding bugs with the interactive version of the banner?
+### When should I try to fix an issue with uNav for my own site (Instance)?
 
-BETA feedback will be addressed. In the interim, fall back to the static version of the banner if issues are yet to be resolved with the interactive version or are not resolved sufficently for a site's needs. All major issues with the static navigation will be solved for launch.
+When presented with a bug in uNav, follow the appropriate steps to determine the scope of your issue. Two scopes are:
+
+###### Global Issue
+
+> Issue affects everyone.
+
+###### Instance Issue
+
+> Issue only affects a single site or a group of similar sites (think: Drupal sites using the X module). Issue comes from your own code base (can affect multiple people, but not everyone).
+
+#### Steps you can use to determine the scope of an issue (Global or Instance):
+
+ 1. View in another web browser to see if you can replicate issue.
+ 1. Ensure that IE is not running in "compatibility mode" (F12: Browser Mode)
+ 1. View another site that uses the uNav to see if you can replicate the issue.
+ 1. View on and off NYS networks to see if the problem persists.
+
+##### If you problem is "Globally scoped":
+
+ 1. [Search GitHub for any issues that may be the same or similar to your own](https://github.com/nys-its/universal-navigation/issues)
+  * If you find an issue, read all the comments and determine if you need to add more info from your instance or not.
+ 1. If you can't find any related issues, [open a new issue on GitHub](https://github.com/nys-its/universal-navigation/issues/new)
+  * Be sure to include all the information required for an issue, outlined in [the contribution guidelines document](/contributing.md#when-creating-an-issue-please-provide-all-possible-of-the-following).
+
+#### If your problem is "Instance scoped":
+
+ 1. Follow the steps outlined above for a globally scoped issue.
+ 1. Use Interactive version (patching your issue locally)
+ 1. Use Static version (static should not cause any issues)
 
 ### How will issues be tracked after launch?
 
