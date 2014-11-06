@@ -27,7 +27,7 @@ ___!!! Place this code at the very top of your site, outside of any container di
             bundle = document.createElement('script');
             bundle.type = 'text/javascript';
             bundle.async = true;
-            bundle.src = "//static-assets.ny.gov/sites/all/widgets/universal-navigation/dist/global-nav-bundle.js";
+            bundle.src = "//static-assets.ny.gov/sites/all/widgets/universal-navigation/js/dist/global-nav-bundle.js";
             head.appendChild(bundle);
         }(document));
     </script>
