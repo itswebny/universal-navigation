@@ -9,7 +9,6 @@ ___!!! Place this code at the very top of your site, outside of any container di
 
 
 ```html
-<<<<<<< HEAD
 <div id="nygov-universal-navigation" class="nygov-universal-container" data-iframe="true" data-updated="2014-10-24 10:01">
     <noscript>
         <iframe width="100%" height="86px" src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
