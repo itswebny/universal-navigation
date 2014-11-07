@@ -10,35 +10,25 @@ ___!!! Place this code at the very top of your site, outside of any container di
 
 ```html
 <div id="nygov-universal-navigation" class="nygov-universal-container" data-iframe="true" data-updated="2014-10-24 10:01">
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T4FP6H" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T4FP6H');</script>
-    <!-- End Google Tag Manager -->
     <noscript>
-        <iframe id="nygov-universal-navigation-frame" class="nygov-universal-container" width="100%" height="86px" src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
+        <iframe width="100%" height="86px" src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
             Your browser does not support iFrames
         </iframe>
     </noscript>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
     <script type="text/javascript">
         var _NY = {
-          HOST : "static-assets.ny.gov",
-          BASE_HOST : "www.ny.gov",
-          hideSettings : false,
-          hideSearch : false
+            HOST: "static-assets.ny.gov",
+            BASE_HOST: "www.ny.gov",
+            hideSettings: false,
+            hideSearch: false
         };
-        (function(document, require, head) {
-
+        (function (document, bundle, head) {
             head = document.getElementsByTagName('head')[0];
-
-            require = document.createElement('script');
-            require.type = 'text/javascript';
-            require.async = true;
-            require.setAttribute('data-main',"//static-assets.ny.gov/sites/all/widgets/universal-navigation/js/main");
-            require.src = "//static-assets.ny.gov/sites/all/widgets/universal-navigation/js/require.js";
-
-            head.appendChild(require);
-
+            bundle = document.createElement('script');
+            bundle.type = 'text/javascript';
+            bundle.async = true;
+            bundle.src = "//static-assets.ny.gov/sites/all/widgets/universal-navigation/js/dist/global-nav-bundle.js";
+            head.appendChild(bundle);
         }(document));
     </script>
 </div>
