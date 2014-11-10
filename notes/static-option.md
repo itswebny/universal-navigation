@@ -29,6 +29,19 @@ ___!!! Place this code at the very top of your site, outside of any container di
 
 ```
 
+### Print CSS Requirement
+
+Static uNav content will be hidden in print, but your site will still print out the height of the container iFrame.
+Use the following CSS to hide the uNav for print. (ONLY needed for Static nav)
+
+``` CSS
+.nygov-universal-container {display: none;}
+```
+
+__NOTE:__
+If you are using a separate print.css stylesheet, add that line anywhere in that CSS file.
+If you are using `@media print {}` for your print styles, add that line inside it's media query.
+
 ## Available Settings
 
 ### Open links in new windows or tabs
