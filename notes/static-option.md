@@ -26,21 +26,19 @@ ___!!! Place this code at the very top of your site, outside of any container di
 <iframe id="nygov-universal-footer-frame" class="nygov-universal-container" width="100%" height="200px" src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true" data-updated="2014-11-07 08:30" frameborder="0" style="border:none; overflow:hidden; width:100%; height:200px;" scrolling="no">
             Your browser does not support iFrames
 </iframe>
-
 ```
 
-### Print CSS Requirement
+### Hiding the uNav when printing
 
-Static uNav content will be hidden in print, but your site will still print out the height of the container iFrame.
-Use the following CSS to hide the uNav for print. (ONLY needed for Static nav)
+The content inside the static uNav is automatically hidden when printed, however the `<iframe>` will leave a noticeable blank area on a print page. To hide this blank area add the following CSS to your site. (This is ONLY needed for the static uNav.)
 
-```CSS
-.nygov-universal-container {display: none;}
+```css
+@media print {
+    .nygov-universal-container {
+        display: none;
+    }     
+}
 ```
-
-**NOTE:**
-If you are using a separate print.css stylesheet, add that line anywhere in that CSS file.
-If you are using `@media print {}` for your print styles, add that line inside it's media query.
 
 ## Available Settings
 
@@ -50,12 +48,12 @@ Append `&target=blank` to the URL in the `<iframe src>`.
 
 **Banner:**
 
-```
+```html
 src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true&target=blank"
 ```
 
 **Footer:**
 
-```
+```html
 src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true&target=blank"
 ```
