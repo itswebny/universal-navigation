@@ -1,11 +1,11 @@
 # Testing Against Development
 
-- [Interactive] ()
-  - [Interactive Header] ()
-  - [Interactive Footer] ()
-- [Static] ()
-  - [Static Header] ()
-  - [Static Footer] ()
+- [Interactive] (#interactive)
+  - [Interactive Header] (#interactive-header)
+  - [Interactive Footer] (#interactive-footer)
+- [Static] (#static)
+  - [Static Header] (#static-header)
+  - [Static Footer] (#static-footer)
 
 ## Interactive
 
