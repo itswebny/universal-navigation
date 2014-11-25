@@ -23,7 +23,7 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 - [Instructions] (notes/footer.md)
 
-## Testing Against Development and Staging
+## Testing Against Development
 - [Embed Code] (notes/testing-against-development-staging.md)
 
 ### Yammer Group
