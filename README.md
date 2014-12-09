@@ -40,4 +40,4 @@ The Universal Navigation is part of New York State’s planned progress toward c
 - If necessary, questions can be emailed to innovate@its.ny.gov
 
 ### QA Admin
-- Checklist for each release/update tetsing cycle is located [here](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/QA-Process-Checklist.md#qa-checklist)
+- Checklist for each release/update testing cycle is located [here](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/QA-Process-Checklist.md#qa-checklist)
