@@ -1,6 +1,8 @@
  
-# QA Checklist
+# QA Process Checklist
+
 Whenever an update to the universal navigation is released, copy and paste the following checklist into a tracking issue.  The issue should be created and located within the specific release's milestone for testing.
+
 ```
 - [ ] Verify that embed code has been updated from C&T 
 - [ ] Update embed code on GitHub at https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md 
