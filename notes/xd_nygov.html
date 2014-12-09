@@ -2,6 +2,7 @@
 <html>
 <body>
 	<script>
+	(function() {
 		var _srcHost = 'static-assets.ny.gov';
 	 	if (document.location.search) {
 	     		var _par = decodeURIComponent(document.location.search.substring(1));
@@ -12,6 +13,7 @@
 	     		}
 	 	}
 	 	document.write('<scr' + 'ipt src="//' + _srcHost + '/sites/all/widgets/universal-navigation/js/xd-nav.js"></scr'+'ipt>');
+	}());
 	</script>
 </body>
 </html>
