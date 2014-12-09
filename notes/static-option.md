@@ -33,11 +33,12 @@ ___!!! Place this code at the very top of your site, outside of any container di
 
 > Since the static navigation is implemented via iframe, there are cross-domain security restrictions, and the iframe embeds cannot communicate with the site that the nav is implemented on.  In order to solve this issue, you are required to deploy a **"iframe buster,"** an HTML file that needs to be uploaded to the the document root of your site, ie agency.ny.gov/xd_nygov.html
 
-> It can be downloaded from: http://nygovdev.prod.acquia-sites.com/sites/all/widgets/universal-navigation/xd_nygov.html
+> It can be downloaded from: https://raw.githubusercontent.com/nys-its/universal-navigation/gh-pages/notes/xs_nygov.html
 
 > **If you can deploy xd_nygov.html to the document root - you are done. You should start seeing the alerts if they are present**
 
-> **If you can not deploy the xd_nygov.html file to the documentroot, you would need to update the static navigation embed code and pass a new parameter, xdiframe, which should contain the url encoded path to the file**
+> **If you can not deploy the xd_nygov.html file to the documentroot, you would need to update the static navigation embed code and pass a new parameter, xdiframe, which should contain the url encoded path to the file** i.e.
+http://nygovdev.prod.acquia-sites.com/load_global_menu/ajax?iframe=true&xdiframe=%2FPATH%2FTO%2FFILE%2Fxd_nygov.html (must be in same domain)
 
 ### Hiding the uNav when printing
 
