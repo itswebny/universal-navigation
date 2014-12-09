@@ -24,7 +24,7 @@ The Universal Navigation is part of New York State’s planned progress toward c
 - [Instructions] (notes/footer.md)
 
 ## QA Testing
-- [Instructions] (https://www.yammer.com/itsexternalcollaborations/notes/1511167)
+- [Instructions] (https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md)
 
 ### Yammer Group
 
