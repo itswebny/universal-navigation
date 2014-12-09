@@ -54,7 +54,9 @@
 
 ### Static Header
 
-For the static header to receive emergency notifications (new with the 12/9/2014 release), it must be paired with a enabling HTML file as described at http://git.io/tKgTQg
+For the static header to receive emergency notifications (new with the 12/9/2014 release), it must be paired with a enabling HTML file as described at http://git.io/tKgTQg 
+
+If testing against the DEV environement, the paired enabling file must be edited to point at DEV resources.
 
 ```html
 <iframe id="nygov-universal-navigation-frame" class="nygov-universal-container" width="100%" height="86px" src="//nygovdev.prod.acquia-sites.com/load_global_menu/ajax?iframe=true" data-updated="2014-11-07 08:30" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
