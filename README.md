@@ -18,7 +18,7 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 - [Instructions and embed code] (notes/static-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/demos/static-option-demo.html)
-- [Emergency Notification Demo](http://nys-its.github.io/universal-navigation/demos/emergency-notification-demo.html)
+- [DEV Environment Demo](http://nys-its.github.io/universal-navigation/demos/static-option-demo-DEV.html)
 
 ## Universal Footer (required)
 
