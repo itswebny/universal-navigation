@@ -13,7 +13,7 @@
                 var _hostRE = /https?:\/\/(.[^/]+)\//g;
                 var _match = _hostRE.exec(_par);
                 
-                if (_match) {
+                if (_match && _match.length > 1) {
                     _srcHost = _match[1];
                 }
             }
