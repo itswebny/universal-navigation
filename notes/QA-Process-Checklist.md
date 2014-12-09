@@ -12,4 +12,6 @@ Whenever an update to the universal navigation is released, copy and paste the f
   - [ ] Yammer Announcement to uNav group 
   - [ ] Email Announcement to primary & secondary contacts 
 - [ ] Monitor issues created on GitHub until testing completed 
+- [ ] Schedule WebEx to review issues (invite issue contributors)
+- [ ] Make go/no-go decision for release
 ```
