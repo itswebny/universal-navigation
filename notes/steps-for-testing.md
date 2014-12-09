@@ -11,7 +11,7 @@
   - Try to focus on the functionality provided by the navigation.  This can include clickable links, and the styling presented within the navigation. 
  
 ###  Issues 
-  - If an issue arises, look at the issues located at GitHub https://github.com/nys-its/universal-navigation/issues  
+  - If an issue arises, look at the issues located at GitHub for the milestone http://bit.ly/1vLr47g  
   - If an issue already exists, feel free to contribute your findings.  Do not create duplicate issues. 
   - If the issue does not exist, create a new issue and tag with the milestone: "2014-12-09 Emergency Alert Release QA"
   - Provide details and screenshots of the issue that has occurred. 
