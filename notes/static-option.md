@@ -33,7 +33,7 @@ ___!!! Place this code at the very top of your site, outside of any container di
 
 > Since the static navigation is implemented via iframe, there are cross-domain security restrictions, and the iframe embeds cannot communicate with the site that the nav is implemented on.  In order to solve this issue, you are required to deploy a **"iframe buster,"** an HTML file that needs to be uploaded to the the document root of your site, ie agency.ny.gov/xd_nygov.html
 
-> It can be downloaded from: https://raw.githubusercontent.com/nys-its/universal-navigation/gh-pages/notes/xs_nygov.html
+> It can be downloaded from: https://raw.githubusercontent.com/nys-its/universal-navigation/gh-pages/notes/xd_nygov.html
 
 > **If you can deploy xd_nygov.html to the document root - you are done. You should start seeing the alerts if they are present**
 
