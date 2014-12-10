@@ -13,7 +13,7 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 - [Instructions and embed code] (notes/interactive-option.md)
 - [Demo](http://nys-its.github.io/universal-navigation/demos/interactive-option-demo.html)
-
+- [DEV Environment Demo](http://nys-its.github.io/universal-navigation/demos/interactive-option-demo-DEV.html)
 #### Static Banner Option
 
 - [Instructions and embed code] (notes/static-option.md)
