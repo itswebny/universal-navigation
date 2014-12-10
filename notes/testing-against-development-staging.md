@@ -31,7 +31,7 @@
             bundle = document.createElement('script');
             bundle.type = 'text/javascript';
             bundle.async = true;
-            bundle.src = "//nygovdev.prod.acquia-sites.com/sites/all/widgets/universal-navigation/dist/global-nav-bundle.js";
+            bundle.src = "//nygovdev.prod.acquia-sites.com/sites/all/widgets/universal-navigation/js/dist/global-nav-bundle.js";
             head.appendChild(require);
         }(document));
     </script>
