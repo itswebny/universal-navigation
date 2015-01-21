@@ -116,9 +116,9 @@ A simple demo is available at the link below. The demo points to the development
 
 ### How do I update my code to add the alerts?
 
-If you're using the *Interactive Banner*, you don't have to do anything. 
+If you're using the **Interactive Banner**, you don't have to do anything. 
 
-If you're using the *Static Banner*, you can follow these directions to add a special HTML file that will enable the alerts. We recommmend testing in a development environment first before deploying to production.
+If you're using the **Static Banner**, you can follow these directions to add a special HTML file that will enable the alerts. We recommmend testing in a development environment first before deploying to production.
 
 [Instructions for adding Universal Navigation Alerts](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/static-option.md#inserting-functionality-for-emergency-and-news-alerts)
 
