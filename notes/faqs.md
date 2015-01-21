@@ -97,3 +97,29 @@ The unniversal navigation was designed to take up the entire width of the webpag
 As specified in the [implementation instructions](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/interactive-option.md), the code for the universal navigation should be placed as close as possible to the `<body>` tag without being inside a respective div or container.
 
 In specific instances where the code needs to be placed in a container to resolve site issues (such as a styling/CSS issue), testing should be done to make sure that the universal navigation remains usable across all functions.
+
+# Universal Navigations Alerts & Notifications
+
+### What do the alerts/notifications look like?
+
+![uNav Alert Examples](https://cloud.githubusercontent.com/assets/5767736/5414923/ff2fe5ec-81f0-11e4-9186-4705e34773cc.PNG "uNav Alert Examples")
+
+### Will both be active at the same time?
+
+No, only one would be active at a time.
+
+### Is there a live demo?
+
+A simple demo is available at the link below. The demo points to the development server to display a test alert.
+
+[Universal Navigation Alerts - Development Environment Test](http://nys-its.github.io/universal-navigation/demos/static-option-demo-DEV.html)
+
+### How do I update my code to add the alerts?
+
+If you're using the *Interactive Banner*, you don't have to do anything. 
+
+If you're using the *Static Banner*, you can follow these directions to add a special HTML file that will enable the alerts. We recommmend testing in a development environment first before deploying to production.
+
+[Instructions for adding Universal Navigation Alerts](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/static-option.md#inserting-functionality-for-emergency-and-news-alerts)
+
+[Additional information on QA Testing](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md)
