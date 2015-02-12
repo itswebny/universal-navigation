@@ -3,11 +3,11 @@
   - page should be on the development side, and not reside on anything public facing. 
  
 ### Insert updated development embed code in a test page 
-  - https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md 
+  - https://github.com/ny/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md 
  
 ### Testing 
   - Testing should be completed within 2 business days of the embed code being updated in dev. 
-  - Example unit tests can be found here https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/what-to-test.md 
+  - Example unit tests can be found here https://github.com/ny/universal-navigation/blob/gh-pages/notes/what-to-test.md 
   - Try to focus on the functionality provided by the navigation.  This can include clickable links, and the styling presented within the navigation. 
  
 ###  Issues 
