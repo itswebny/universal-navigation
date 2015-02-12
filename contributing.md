@@ -64,7 +64,7 @@
       - moderate: only impacts subset of users
 
 ### Reference
-- See other optional labels at https://github.com/nys-its/universal-navigation/labels
+- See other optional labels at https://github.com/ny/universal-navigation/labels
 
 ### Filters
 - Issues with no milestone http://git.io/wVmSBw
