@@ -53,9 +53,9 @@ When presented with a bug in uNav, follow the appropriate steps to determine the
 
 ##### If you problem is "Globally scoped":
 
- 1. [Search GitHub for any issues that may be the same or similar to your own](https://github.com/nys-its/universal-navigation/issues)
+ 1. [Search GitHub for any issues that may be the same or similar to your own](https://github.com/ny/universal-navigation/issues)
   * If you find an issue, read all the comments and determine if you need to add more info from your instance or not.
- 1. If you can't find any related issues, [open a new issue on GitHub](https://github.com/nys-its/universal-navigation/issues/new)
+ 1. If you can't find any related issues, [open a new issue on GitHub](https://github.com/ny/universal-navigation/issues/new)
   * Be sure to include all the information required for an issue, outlined in [the contribution guidelines document](/contributing.md#when-creating-an-issue-please-provide-all-possible-of-the-following).
 
 #### If your problem is "Instance scoped":
@@ -66,7 +66,7 @@ When presented with a bug in uNav, follow the appropriate steps to determine the
 
 ### How will issues be tracked after launch?
 
-[GitHub Issues](https://github.com/nys-its/universal-navigation/issues) in this repo will be used to track feedback, issues, and enhancement requests after the Universal Navigation is released.
+[GitHub Issues](https://github.com/ny/universal-navigation/issues) in this repo will be used to track feedback, issues, and enhancement requests after the Universal Navigation is released.
 
 ### How will the Universal Navigation search field work with our local search?
 
@@ -94,7 +94,7 @@ The unniversal navigation was designed to take up the entire width of the webpag
 
 ### When can the Universal Navigaton be placed in containers, `<div>` tags, or other locations away from the `<body>` tag?
 
-As specified in the [implementation instructions](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/interactive-option.md), the code for the universal navigation should be placed as close as possible to the `<body>` tag without being inside a respective div or container.
+As specified in the [implementation instructions](https://github.com/ny/universal-navigation/blob/gh-pages/notes/interactive-option.md), the code for the universal navigation should be placed as close as possible to the `<body>` tag without being inside a respective div or container.
 
 In specific instances where the code needs to be placed in a container to resolve site issues (such as a styling/CSS issue), testing should be done to make sure that the universal navigation remains usable across all functions.
 
@@ -112,7 +112,7 @@ No, only one would be active at a time.
 
 A simple demo is available at the link below. The demo points to the development server to display a test alert.
 
-[Universal Navigation Alerts - Development Environment Test](http://nys-its.github.io/universal-navigation/demos/static-option-demo-DEV.html)
+[Universal Navigation Alerts - Development Environment Test](http://ny.github.io/universal-navigation/demos/static-option-demo-DEV.html)
 
 ### How do I update my code to add the alerts?
 
@@ -120,6 +120,6 @@ If you're using the **Interactive Banner**, you don't have to do anything.
 
 If you're using the **Static Banner**, you can follow these directions to add a special HTML file that will enable the alerts. We recommmend testing in a development environment first before deploying to production.
 
-[Instructions for adding Universal Navigation Alerts](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/static-option.md#inserting-functionality-for-emergency-and-news-alerts)
+[Instructions for adding Universal Navigation Alerts](https://github.com/ny/universal-navigation/blob/gh-pages/notes/static-option.md#inserting-functionality-for-emergency-and-news-alerts)
 
-[Additional information on QA Testing](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md)
+[Additional information on QA Testing](https://github.com/ny/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md)
