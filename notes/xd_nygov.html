@@ -1,16 +1,29 @@
+<!doctype html>
 <html>
-    <body>
-	<script>
-	 var _srcHost = 'static-assets.ny.gov';
-	 if(document.location.search) {
-	     var _par = decodeURIComponent(document.location.search.substring(1));
-	     var _hostRE = /https?:\/\/(.[^/]+)\//g;
-	     var _match = _hostRE.exec(_par);
-	     if(_match) {
-		 _srcHost = _match[1];
-	     }
-	 }
-	 document.write('<scr' + 'ipt src="//' + _srcHost + '/sites/all/widgets/universal-navigation/js/xd-nav.js"></scr'+'ipt>');	 
-	</script>
+<head>
+    <title>NY</title>
+</head>
+<body>
+    <script>
+        (function() {
+            var _srcHost = 'static-assets.ny.gov',
+                head = document.head || document.getElementsByTagName('head')[0],
+                script = document.createElement('script');
+            
+            if (document.location.search) {
+                var _par = decodeURIComponent(document.location.search.substring(1));
+                var _hostRE = /https?:\/\/(.[^/]+)\//g;
+                var _match = _hostRE.exec(_par);
+                
+                if (_match && _match.length > 1) {
+                    _srcHost = _match[1];
+                }
+            }
+            
+            script.type = 'text/javascript';
+            script.src = '//' + _srcHost + '/sites/all/widgets/universal-navigation/js/xd-nav.js';
+            head.appendChild(script);
+        }());
+    </script>
 </body>
 </html>
