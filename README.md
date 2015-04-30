@@ -38,7 +38,7 @@ The Universal Navigation is part of New York State’s planned progress toward c
 <br>
 ### Questions
 - Please post questions to the [Yammer Group](http://goo.gl/RRlnFV) for the mutual benefit of all
-- If necessary, questions can be emailed to innovate@its.ny.gov
+- If necessary, questions can be emailed to WebNYSupport@its.ny.gov
 
 ### QA Admin
 - Checklist for each release/update testing cycle is located [here](https://github.com/ny/universal-navigation/blob/gh-pages/notes/QA-Process-Checklist.md#qa-checklist)
