@@ -18,8 +18,7 @@ The design is finalized, but any major user experience or functional issues will
 
 ### Will the Policy be updated?
 
-Yes. After a launch date has been finalized. (previous policy for reference http://on.ny.gov/1uXDHuI)
-
+The new policy is pending, and will be posted on the [ITS Enterprise Governance Index](http://its.ny.gov/tables/technologypolicyindex). ([Previous Version](http://its.ny.gov/document/state-common-web-banner))
 ### How can agency leadership or press offices get more non-techical information about the universal navigation?
 
 If there are non-technical more strategic questions that are not answered in the FAQs, questions can be elevated through PIO channels to the [Media Services Center](http://www.ogs.ny.gov/Core/MSC/) as the Chamber is sponsoring and guiding the effort from a user/citizen experience perspective. Please also share this demo and guidance site with any website stakeholders.
