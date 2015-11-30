@@ -7,7 +7,7 @@
 
 ___!!! Place this code at the very top of your site, outside of any container divs, and as close to the opening \<body\> tag as possible. The header should expand to 100% of the screen width, even if your current site has a fixed width. !!!___
 
-
+Once implemented contact webnysupport@its.ny.gov to have the site added to the search engine crawler and to index the site. 
 ```html
 <div id="nygov-universal-navigation" class="nygov-universal-container" data-iframe="true" data-updated="2014-11-07 08:30">
     <noscript>
