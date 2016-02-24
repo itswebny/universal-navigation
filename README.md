@@ -4,6 +4,7 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 ## Implementation Guidelines
 
+- This shoudl be paired with the [NYS Global Navigation](https://github.com/ny/global-navigation)
 - Subscribe to email updates from the Yammer Group (below) to be notified as changes/additions happen to this guidance and to be informed of details of the rollout timeline.
 - [Frequently Asked Questions](notes/faqs.md)
 
