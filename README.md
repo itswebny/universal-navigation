@@ -11,21 +11,21 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 #### Interactive Banner Option
 
-- [Instructions and embed code] (notes/interactive-option.md)
+- [Instructions and embed code](notes/interactive-option.md)
 - [Demo](http://ny.github.io/universal-navigation/demos/interactive-option-demo.html)
 - [DEV Environment Demo](http://ny.github.io/universal-navigation/demos/interactive-option-demo-DEV.html)
 #### Static Banner Option
 
-- [Instructions and embed code] (notes/static-option.md)
+- [Instructions and embed code](notes/static-option.md)
 - [Demo](http://ny.github.io/universal-navigation/demos/static-option-demo.html)
 - [DEV Environment Demo](http://ny.github.io/universal-navigation/demos/static-option-demo-DEV.html)
 
 ## Universal Footer (required)
 
-- [Instructions] (notes/footer.md)
+- [Instructions](notes/footer.md)
 
 ## QA Testing
-- [Instructions] (https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md)
+- [Instructions](https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md)
 
 ### Yammer Group
 
