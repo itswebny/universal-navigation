@@ -19,7 +19,6 @@ The Universal Navigation is part of New York State’s planned progress toward c
 - [DEV Environment Demo](http://ny.github.io/universal-navigation/demos/static-option-demo-DEV.html)
 
 ## Universal Footer (required)
-
 - [Instructions](notes/footer.md)
 
 ## QA Testing
@@ -27,8 +26,6 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 ## Thank you for participating!
 
-
-<br>
 ### Questions
 - If necessary, questions can be emailed to WebNYSupport@its.ny.gov
 
