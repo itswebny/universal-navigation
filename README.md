@@ -30,7 +30,6 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 <br>
 ### Questions
-- Please post questions to the [Yammer Group](http://goo.gl/RRlnFV) for the mutual benefit of all
 - If necessary, questions can be emailed to WebNYSupport@its.ny.gov
 
 ### QA Admin
